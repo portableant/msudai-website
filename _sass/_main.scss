@@ -137,3 +137,18 @@ h1 {
 #top-banner {
     background: url('/images/backgrounds/91.jpeg') no-repeat center center/cover;
 }
+
+ .noto-sans-500 {
+            font-family: "Noto Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: normal;
+            font-variation-settings: "width" 100;
+        }
+        .noto-sans-700 {
+            font-family: "Noto Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 700;
+            font-style: normal;
+            font-variation-settings: "width" 100;
+        }

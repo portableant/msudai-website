@@ -13,9 +13,9 @@ layout: default
 - [Year 1 Day 1](/schedule/year-one-day-one/) - Monday (Aug 17): Project Management & GitHub
 - [Year 1 Day 2](/schedule/year-one-day-two/) - Tuesday (Aug 18): Digital Libraries & Linked Data
 - [Year 1 Day 3](/schedule/year-one-day-three/) - Wednesday (Aug 19): Web Mapping & Data Publishing
-- [Year 1 Day 4](/schedule/ear-one-day-four/) - Thursday (Aug 20): Scholarly Publishing & Social Media
+- [Year 1 Day 4](/schedule/year-one-day-four/) - Thursday (Aug 20): Scholarly Publishing & Social Media
 - [Year 1 Day 5](/schedule/year-one-day-five/) - Friday (Aug 21): Augmented Reality & Open Collaboration
-- [Year one day six](/schedule/year-one-day-six/) - Saturday (Aug 22): Project Presentations & Wrap Up
+- [Year 1 Day 6](/schedule/year-one-day-six/) - Saturday (Aug 22): Project Presentations & Wrap Up
 
 ## Year Two (2016)
 

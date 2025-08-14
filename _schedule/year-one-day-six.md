@@ -1,7 +1,7 @@
 ---
 title: "Year one day six"
 video: aT1X62JzZAw
-layout: default
+layout: video
 ---
 
 ### **Day 6: Saturday (Aug 22)**

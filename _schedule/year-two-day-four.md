@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: video
 title: "Year 2 Day 4"
 video: kUfgf_U0tN4
 ---
