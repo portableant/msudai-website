@@ -2,25 +2,23 @@
   <div class="container text-center">
     
     <div class="row align-items-center mb-4 g-4">
-      
       <div class="col-md-4">
-        <a href="http://matrix.msu.edu/" target="_blank">
-          <img src="{{site.baseurl}}/images/logos/AIDA-FooterLogos-011.png" alt="MATRIX logo" class="img-fluid" style="max-height: 80px;">
+        <a href="http://matrix.msu.edu/">
+            {% picture  logo /images/logos/matrix-logo-text.png  class="my-4 footer-img" --alt="Matrix Logo"   %}
         </a>
       </div>
       
       <div class="col-md-4">
-        <a href="http://anthropology.msu.edu/" target="_blank">
-          <img src="{{site.baseurl}}/images/logos/AIDA-FooterLogos-02.png" alt="Anthropology MSU logo" class="img-fluid" style="max-height: 80px;">
+        <a href="http://anthropology.msu.edu/">
+          {% picture logo /images/logos/AIDA-FooterLogos-02.png class="my-4 footer-img" alt="Anthropology MSU logo" %}
         </a>
       </div>
       
       <div class="col-md-4">
-        <a href="http://neh.gov/" target="_blank">
-          <img src="{{site.baseurl}}/images/logos//AIDA-FooterLogos-03.png" alt="NEH logo" class="img-fluid" style="max-height: 80px;">
+        <a href="http://neh.gov/" >
+          {% picture logo /images/logos/US-NEH-2010Logo.png class="my-4 footer-img" --alt {{ NEH logo}}  %}
         </a>
       </div>
-      
     </div>
 
     <hr class="border-secondary my-4">

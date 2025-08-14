@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Year Two Schedule    
-permalink: /schedule/year-two-schedule/
 ---
 ### **Year 2 Schedule**
 

@@ -6,9 +6,16 @@ permalink: /logistics/
 
 The Institute for Digital Archaeology Method & Practice will take place on the beautiful campus of [Michigan State University](https://msu.edu/) in 2015 (August 17-22) & 2016 (August 15-20).  Institute sessions and activities will rotate between MATRIX (Natural Sciences Building), the LEADR Lab (Old Horticulture), and McDonel Hall (location of MSU’s archaeological facilities).
 
-<div class="mb-4">
-    <a href="{{site.baseurl}}/schedule/year-one-schedule/" class="btn btn-outline-dark me-2">Year One Schedule (2015)</a>
-    <a href="{{site.baseurl}}/schedule/year-two-schedule/" class="btn btn-outline-dark">Year Two Schedule (2016)</a>
+<div class="text-center mb-4">
+  <a href="/schedule/year-one-schedule/" class="btn btn-outline-dark btn-md me-3 mb-2">
+    <i class="fas fa-calendar-alt me-2"></i>Year One Schedule
+  </a>
+  <a href="/schedule/year-two-schedule/" class="btn btn-outline-dark btn-md me-3 mb-2">
+    <i class="fas fa-calendar-check me-2"></i>Year Two Schedule
+  </a>
+  <a href="/schedule/videos/" class="btn btn-outline-dark btn-md mb-2">
+    <i class="fas fa-video me-2"></i>Videos & Recordings
+  </a>
 </div>
 
 ## Travel

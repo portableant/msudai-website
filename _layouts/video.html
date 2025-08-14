@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="video-container mb-4">
+{% if page.video %}
+{% include video.html id=page.video %}
+{% endif %}
+</div>
+
+{% if page.content %}
+
+    {{ content }}
+
+{% endif %}

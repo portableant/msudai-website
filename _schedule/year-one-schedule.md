@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Year One Schedule    
-permalink: /schedule/year-one-schedule/
 ---
 
 ### **Year 1 Schedule**
-
 
 | Day | Time | Activity | Description | Speaker(s) |
 | :--- | :--- | :--- | :--- | :--- |

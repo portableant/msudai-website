@@ -1,0 +1,15 @@
+{% comment %}
+  Embed a YouTube video using Bootstrap 5's ratio classes.
+  
+  Usage:
+  {% include youtube-embed.html id="VIDEO_ID" %}
+{% endcomment %}
+
+{% if include.id %}
+
+<div class="ratio ratio-16x9 p-3">
+  <iframe src="https://www.youtube.com/embed/{{ include.id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{% else %}
+  <p>Please provide a YouTube video ID to embed.</p>
+{% endif %}
