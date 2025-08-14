@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sass": "sass _sass/_main.scss assets/css/main.css --load-path=node_modules",
-    "purgecss": "purgecss --css assets/css/main.css --content './**/*.html' --safelist '^.blockquoteCantundum.*$' '^blockquote.*$' --output _site/assets/css/main.min.css --rejected --rejected-css",
+    "purgecss": "purgecss --css assets/css/main.css --content './**/*.html' --safelist '^blockquote.*$' --output _site/assets/css/main.min.css --rejected --rejected-css",
     "js": "cp _js/main.js assets/js/main.js",
     "build:css": "npm run sass",
     "copy:fa-fonts": "cp node_modules/@fortawesome/fontawesome-free/webfonts/*.woff* assets/webfonts/",
