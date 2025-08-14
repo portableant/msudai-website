@@ -133,7 +133,7 @@ sass:
 seo_tag:
   title: # Leave blank to use site.title
   description: # Leave blank to use site.description
-  image: /images/InstituteDigitalArch-Logo-35.png # Default social sharing image
+  image: /images/logos/InstituteDigitalArch-Logo-35.png # Default social sharing image
  
 webp:
   enabled: true
