@@ -1,0 +1,67 @@
+# .github/workflows/deploy.yml
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Run deploy manually with tags'
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # This line was correctly indented
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Install libvips and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libvips libvips-dev
+        
+            sudo apt-get install -y build-essential gcc g++ make pkg-config \
+            libglib2.0-dev libexpat1-dev libpng-dev libjpeg-dev \
+            libtiff-dev libexif-dev libwebp-dev libheif-dev librsvg2-dev \
+            libimagequant-dev libcfitsio-dev libgsf-1-dev liblcms2-dev \
+            libopenexr-dev libpoppler-glib-dev libspectrum-dev \
+            libxml2-dev zlib1g-dev imagemagick
+
+      - name: Verify libvips installation
+        run: vips --version
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.3'
+          bundler-cache: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install npm dependencies
+        run: npm install
+
+      - name: Build CSS with npm script
+        run: npm run start
+
+      # Uncomment if you want to run Jekyll build explicitly
+      # - name: Build Jekyll site
+      #   run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages

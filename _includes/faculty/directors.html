@@ -1,0 +1,26 @@
+<div class="container-fluid">
+    <div class="row">
+        {% for faculty in site.faculty %}
+        {% if faculty.role == "director" %}
+            <div class="col-12 mb-4">
+                <div class="card flex-row align-items-stretch h-100 shadow-md">
+                    {% if faculty.image and faculty.image != "" %}
+                        <div class="col-md-4 d-flex align-items-center p-3">
+                            {% picture profile {{ faculty.image }} jpt-webp: {{ faculty.image }} 1:1 center class="card-img-left img-fluid h-100 w-100 object-fit-cover rounded" --alt {{ faculty.title }} %}
+                        </div>
+                    {% endif %}
+                    <div class="card-body col-md-8">
+                        <h5 class="card-title">{{ faculty.title }}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h6>
+                        <p class="card-text">{{ faculty.department }}</p>
+                        {% if faculty.website %}
+                            <a href="{{ faculty.website }}" class="card-link">{{ faculty.website }}</a>
+                        {% endif %}
+                        <p class="card-text mt-2">{{ faculty.content }}</p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>

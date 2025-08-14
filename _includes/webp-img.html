@@ -1,0 +1,10 @@
+{% assign img_path = page.image %}
+{% assign img_name = img_path | split: '/' | last %}
+{% assign img_base = img_name | split: '.' | first %}
+{% assign img_ext = img_name | split: '.' | last %}
+{% assign webp_path = img_path | replace: img_ext, 'webp' %}
+
+<picture>
+    <source srcset="{{ webp_path }}" type="image/webp">
+    <img class="img-fluid" src="{{ img_path }}" alt="{{ page.alt | default: An image to represent this post}}" loading="lazy">
+</picture>

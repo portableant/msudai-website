@@ -1,0 +1,79 @@
+---
+layout: default
+title: News
+pagination: 
+  enabled: true
+  collection: posts
+---
+<div class="container-fluid">
+    <div class="row">
+        {% for item in paginator.posts %}
+            <div class="col-12 mb-4">
+                <div class="card shadow w-100">
+                    <div class="card-body">
+                        <h2 class="card-title">
+                            <a href="{{site.baseurl}}{{ item.url }}">{{ item.title }}</a>
+                        </h2>
+                        <p class="card-subtitle mb-2 text-muted">
+                            <small>
+                                {{ item.date | date: "%B %d, %Y" }}
+                                {% if item.author %}
+                                    &nbsp;|&nbsp;By {{ item.author }}
+                                {% endif %}
+                            </small>
+                        </p>
+                        <p class="card-text">
+                            {% assign words = item.excerpt | split: ' ' %}
+                            {% if words.size > 50 %}
+                                {{ words | slice: 0, 50 | join: ' ' }}...
+                            {% else %}
+                                {{ item.excerpt  | slice: 0, 50 | join: ' ' }}
+                            {% endif %}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+     {% if paginator.total_pages > 1 %}
+        <nav aria-label="Page navigation" class="mt-5">
+            <ul class="pagination justify-content-center">
+                {% if paginator.previous_page %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+                    </li>
+                {% else %}
+                    <li class="page-item disabled">
+                        <span class="page-link">Previous</span>
+                    </li>
+                {% endif %}
+
+                {% for pager in paginator.pagination %}
+                    {% if pager.is_active %}
+                        <li class="page-item active" aria-current="page">
+                            <span class="page-link">{{ pager.num }} <span class="sr-only">(current)</span></span>
+                        </li>
+                    {% elsif pager.is_ellipsis %}
+                        <li class="page-item disabled">
+                            <span class="page-link">&hellip;</span>
+                        </li>
+                    {% else %}
+                        <li class="page-item">
+                            <a class="page-link" href="{{ pager.url | relative_url }}">{{ pager.num }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+
+                {% if paginator.next_page %}
+                    <li class="page-item">
+                        <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next</a>
+                    </li>
+                {% else %}
+                    <li class="page-item disabled">
+                        <span class="page-link">Next</span>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>
+    {% endif %}
+</div>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+    <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<style>
+    .noto-sans-500 {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+}
+</style>
+</head>
+<body>
+{% include nav.html %}
+<main>
+    <section id="banner">
+        <div class="container-fluid banner">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 text-left">
+                        <h1 class="display-5 fw-bold">{{ page.title }}</h1>
+                        {% if page.date %}
+                            <p class="text-muted">{{ page.date | date: "%B %d, %Y" }}</p>
+                        {% endif %}
+                        {% if page.author %}
+                            <p class="text-muted">By {{ page.author }}</p>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="page-content" class="py-2">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 table-responsive">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+</main>
+
+{% include footer.html %}
+
+<script type="module" src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+</body>
+</html>

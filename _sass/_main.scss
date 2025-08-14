@@ -1,0 +1,139 @@
+// _sass/main.scss
+
+$fa-font-display: swap;
+
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap.scss";
+// ... (your existing imports)
+
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";   // For solid icons
+@import "@fortawesome/fontawesome-free/scss/brands.scss";  // For brand icons
+// Add other styles like regular or light if needed
+// Define your custom variables before importing Bootstrap if you want to override defaults
+$primary: #0d474e;   // Michighan State University Green
+$secondary: #fbede2;
+$white: #ffffff;     // Pure White
+$black: #000000;     // Pure Black
+
+// Add your custom styles here
+body {
+    font-family: 'Noto Sans', sans-serif;
+    color: $white;
+    background-color: $secondary;
+    font-size: 14px;
+    font-weight: 500;
+}
+#front-center {
+    background-color: $primary;
+    color: $white;
+    padding: 60px 0;
+  
+}
+#about {
+    background-color: $secondary;
+    color: $white;
+    padding: 60px 0;
+}
+#news {
+    background-color: $secondary;
+    color: $black;
+    padding: 60px 0;
+}
+.navbar {
+    background-color: $secondary;
+    .nav-link {
+        color: $black !important;
+        font-weight: 600;
+        &:hover {
+            color: $primary !important;
+        }
+    }
+}
+main {
+    padding: 20px;
+    background-color: $secondary;
+    color: $black;
+}   
+.card {
+    border: none;
+    background-color: $white;
+    box-shadow: 0 4px 8px rgba(0,0,0,.05);
+    .card-title {
+        color: $primary;
+    }
+}
+.card a {
+    color: $primary;
+    text-decoration: none;
+    transition: color 0.2s;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: $black;
+        text-decoration: underline;
+    }
+}
+.pagination {
+    .page-link {
+        color: $primary;
+        text-decoration: none;
+        transition: color 0.2s;
+
+        &:hover,
+        &:focus,
+        &:active {
+            color: $black;
+            text-decoration: underline;
+        }
+    }
+    .page-item.active .page-link {
+        background-color: $primary;
+        border-color: $primary;
+        color: $white;
+    }
+    .page-item.disabled .page-link {
+        color: lighten($primary, 40%);
+        pointer-events: none;
+        background-color: $white;
+        border-color: $white;
+    }
+}
+footer {
+    background-color: $primary;
+    color: $white;
+    a {
+        color: $white;
+        &:hover {
+            color: $secondary;
+        }
+    }
+}
+
+
+table.programme-table a {
+    color: $primary;
+    text-decoration: underline;
+    text-decoration-color: $secondary;
+    text-decoration-thickness: 3px; // Makes the underline bolder
+    &:hover {
+        color: darken($primary, 10%);
+        text-decoration-color: darken($secondary, 10%);
+        text-decoration-thickness: 4px; // Even bolder on hover
+    }
+}
+
+.bg-msu {
+  background-color: #0d474e   !important;
+}   
+main a {
+    color: #c15d00;
+}
+h1 {
+    font-weight: 600;
+}
+#top-banner {
+    background: url('/images/backgrounds/91.jpeg') no-repeat center center/cover;
+}

@@ -1,0 +1,16 @@
+---
+title: Wanna collect data digitally?
+author: Ben Carter 
+date: 2016-09-06
+layout: default
+---
+
+This is my final post as a participant in the Institute for Digital Archaeology. This post serves three purposes. First, I announce a resource that I have created to enable digital data collection in archaeology. Second, I want to mention a few of my favorite aspects of the Institute. Finally, I just want to say a few thanks.
+
+First, I announce a new resource for digital data collection in archaeology ([see website](https://benjaminpcarter.com/digital-data-collection/)). While I initially planned to make something (I didn’t even really know what… an app?), instead I have cobbled together a couple of pre-built, “off-the-shelf” tools into a loose and compartmentalized system. And… because they are all well-supported open source tools they are also 100% free! On the website, I provide a justification for why I chose these tools, criteria for selection and descriptions of the tools. More importantly and even though all of these have low adoption thresholds (that was one of the criteria!), in order to support the testing, adoption and use of these tools in archaeology, I provide documentation on the ins and outs of using these tools. This means that you can be up and running in a matter of minutes (OK, maybe more depending upon download speeds…). In her final post Anne talks about toe-dipping and cannon-balling. My goal here was to suggest tools and provide assistance so that you either can dip your toes or jump right in; either way, I think you will see a big splash. I hope this helps. PLEASE LEAVE FEEDBACK. Please.
+
+Second, I wanted to share two of my favorite aspects of the Institute. One, my colleagues. I have been honored to be part of such an open, collaborative and supportive cohort of insightful and dedicated scholars. I learned much simply from conversations over coffee at breakfast, Thai food at lunch and beers over dinner as I could hope to learn at any organized workshop or talk. Your struggles are as valuable to me as your final products. I want you all to know that I look forward to more conversations over beer, lunch (maybe Mexican this time?), and beer (did I write beer twice?). Two, time. I greatly appreciate the space that participating in this yearlong institution has given me. Without this institute, I think I would be still struggling away trying to put some sort of digital data collection system together in my “spare” time. No, it’s not done (is there such a thing), but the institute and the (dreaded) posts have kept me on track even though dead ends and unexpected turns.
+
+Third, I want to thank the entire faculty. Of course, an especially large “THANK YOU” goes to Ethan and Lynne for putting the Institute together. I have learned so much from the rest of the faculty that I would like to thank them as well for their time and effort, both at the institute weeks at MSU as well as during the year in between. I understand the amorphous, complex, ugly (i.e. coding) world of digital archaeology much better than I ever thought I would. Thank you, Terry, Kathleen, Catherine, Brian, Shawn, Eric, Dan and Christine.
+
+Lastly, a satisfied smile goes out to the NEH for supporting the Institute. Good decision! Amazing results! Just look.

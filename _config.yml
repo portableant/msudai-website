@@ -1,0 +1,199 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Institute for Digital Archaeology Method and Practice
+email: danielpett@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A research institute dedicated to advancing digital methods and practices in archaeology.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://msudai.museologi.st" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dejpett
+github_username:  portableant
+
+# Build settings
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /news/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-picture-tag-ng
+  - jekyll-spaceship
+  - jekyll-paginate-v2
+permalink: pretty
+collections:
+  faculty:
+    output: true
+  logistics:
+    output: true
+  schedule:
+    output: true 
+picture_tag_ng:
+  backend: imagemagick
+  parallel: false
+  threads: 16
+  background_color: FFFFFF
+  picture_versions:
+    m: 700
+    s: 400 
+picture: 
+  ignore_missing_images: true
+pagination:
+  enabled: true
+  permalink: '/:num/' # The URL structure for pagination pages (e.g., /2/, /3/)
+  title: 'Page :num of :max - News and updates' # Optional: Title for paginated pages
+  limit: 0 # Limits the number of paginated pages (0 means no limit)
+  sort_field: 'date' # Field to sort collection items by (e.g., date, title, weight)
+  sort_reverse: true # true for descending (newest first), false for ascending
+  offset: 0 # Number of items to skip at the beginning
+  debug: false # Set to true to see debug information in the console
+  collection: 'posts' # The collection to paginate (e.g., 'programme', 'posts', etc.)
+  per_page: 12 # Number of items per page for this collection
+  permalink: '/news/page:num/' # The permalink for paginated collection pag
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+    - mathjax-processor
+    - plantuml-processor
+    - mermaid-processor
+    - polyfill-processor
+    - media-processor
+    - emoji-processor
+    - element-processor
+  mathjax-processor:
+    src:
+      - https://polyfill.io/v3/polyfill.min.js?features=es6
+      - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    config:
+      tex:
+        inlineMath:
+          - ['$','$']
+          - ['\(','\)']
+        displayMath:
+          - ['$$','$$']
+          - ['\[','\]']
+      svg:
+        fontCache: 'global'
+    optimize: # optimization on building stage to check and add mathjax scripts
+      enabled: true # value `false` for adding to all pages
+      include: []   # include patterns for math expressions checking (regexp)
+      exclude: []   # exclude patterns for math expressions checking (regexp)
+  plantuml-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: plantuml
+    syntax:
+      code: 'plantuml!'
+      custom: ['@startuml', '@enduml']
+    src: http://www.plantuml.com/plantuml/svg/
+  mermaid-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: 'mermaid!'
+      custom: ['@startmermaid', '@endmermaid']
+    config:
+      theme: default
+    src: https://mermaid.ink/svg/
+  media-processor:
+    default:
+      id: 'media-{id}'
+      class: 'media'
+      width: '100%'
+      height: 600
+      frameborder: 0
+  emoji-processor:
+    css:
+      class: emoji
+    src: https://github.githubassets.com/images/icons/emoji/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+sass:
+  sass_dir: _sass
+  load_paths:
+    - _sass
+    - node_modules
+  style: compressed 
+seo_tag:
+  title: # Leave blank to use site.title
+  description: # Leave blank to use site.description
+  image: /images/InstituteDigitalArch-Logo-35.png # Default social sharing image
+ 
+webp:
+  enabled: true
+  
+  # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
+  quality: 90
+
+  # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
+  # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
+  img_dir: ["/images", "/images/logos", "/images/backgrounds"]
+
+  # Whether to search in nested directories or not
+  nested: true
+
+  # add ".gif" to the format list to generate webp for animated gifs as well
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+
+  # File extensions for animated gif files 
+  gifs: [".gif"]
+
+  # Set to true to always regenerate existing webp files
+  regenerate: false
+
+  # Local path to the WebP utilities to use (relative or absolute)
+  # Omit or leave as nil to use the utilities shipped with the gem, override only to use your local install
+  # Eg : "/usr/local/bin/cwebp"
+  webp_path: /usr/local/bin/cwebp
+
+  # List of files or directories to exclude
+  # e.g. custom or hand generated webp conversion files
+  exclude: []
+
+  # append '.webp' to filename after original extension rather than replacing it.
+  # Default transforms `image.png` to `image.webp`, while changing to true transforms `image.png` to `image.png.webp`
+  append_ext: false
