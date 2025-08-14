@@ -1311,6 +1311,10 @@ progress {
   flex-direction: column !important;
 }
 
+.flex-shrink-0 {
+  flex-shrink: 0 !important;
+}
+
 .justify-content-center {
   justify-content: center !important;
 }
@@ -1455,6 +1459,11 @@ progress {
 
 .rounded-circle {
   border-radius: 50% !important;
+}
+
+.rounded-start {
+  border-bottom-left-radius: var(--bs-border-radius) !important;
+  border-top-left-radius: var(--bs-border-radius) !important;
 }
 
 .invisible {
