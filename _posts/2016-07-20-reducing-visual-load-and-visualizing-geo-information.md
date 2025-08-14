@@ -43,4 +43,4 @@ Most of the above records fall well within one degree which is good. But where v
 Which is correct? How much does a 3 mean vs 5, vs 9 in terms of reliability? In short, I have a lot more work to do before I can offer MINA as anything other than a 'proof-of-concept'. But things are moving along on different tools that enable data navigation. I hope to have another update before the Institute in mid-August.
 
 
-{% include 404images.html %}
+{% include media/404images.html %}

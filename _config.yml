@@ -31,6 +31,10 @@ github_username:  portableant
 markdown: kramdown
 defaults:
   - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: /images/logos/InstituteDigitalArch-Logo-35.png 
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -43,6 +47,7 @@ plugins:
   - jekyll-picture-tag-ng
   - jekyll-spaceship
   - jekyll-paginate-v2
+  - jekyll-leaflet
 permalink: pretty
 collections:
   faculty:

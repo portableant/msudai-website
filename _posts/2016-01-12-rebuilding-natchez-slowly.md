@@ -36,4 +36,4 @@ My last goal was to create a wireframe/flow chart for an interactive window. Thi
 * **Continue fleshing out Twine wireframe** with more information, as well as building images
 * **Switch game from Twine to pop-out window** on website
 
-{% include 404images.html %}
+{% include media/404images.html %}

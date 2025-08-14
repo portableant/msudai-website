@@ -29,4 +29,4 @@ There are three thousand people that live on Catalina Island and more than a mil
 
 The Pimu Catalina Island Archaeology Project (PCIAP) has never worked on its own. It is with generous support and assistance of many people that the project continues to be so successful. Excavations at Eagles Nest have been through field courses sponsored by UCLA Cotsen Institute of Archaeology, UCLA Law School's Tribal Learning Community and Educational Exchange, Institute for Field Research, and CSUN Anthropology. Our permit is from the Catalina Island Conservancy. Ongoing support is being given by the Catalina Island Museum, Fowler Museum at UCLA, USC Archaeology, USC Spatial Sciences, USC Environmental Studies & Wrigley Marine Institute, and the City of Avalon.
 
-{% include 404images.html %}
+{% include media/404images.html %}

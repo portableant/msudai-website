@@ -17,7 +17,7 @@ This post is coming somewhat late, but I do have a good excuse; for the past wee
 ![The recently cleared remains of Fort Rosalie](/images/posts/404.png){: .img-fluid } 
 **The recently cleared remains of Fort Rosalie**
 
-{% include 404images.html %}
+{% include media/404images.html %}
 
 This was perfect for me because it gave me an opportunity to meet with Kathleen Bond, who is the Superintendent of the Natchez National Historic Park. I met with her last March to discuss my plans for creating a 3d model of Natchez, so this was my opportunity to show her what I've created so far. Like most people, I am my own worst critic, so it was incredibly reassuring to see how excited she was – she actually called in everyone who was in the office at the time. We also met with her a second time so their public interpretation officer and members of SEAC (Southeast Archaeological Center) could look at what I had to offer. While I have plans to create a much more interactive experience, it's nice to know that what I have now is something that can already be used by the Park to help draw people in to the site.
 

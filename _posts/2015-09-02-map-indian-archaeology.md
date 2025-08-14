@@ -40,4 +40,4 @@ Memorial University
 dngupta AT mun DOT ca  
 [@archaeomap](https://twitter.com/archaeomap)
 
-{% include 404images.html %}
+{% include media/404images.html %}

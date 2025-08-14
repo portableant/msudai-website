@@ -37,4 +37,4 @@ Both components of our project will also free up my time and my employees' time.
 
 Although I coded as a teen (back when we had Apple IIes!) and authored some websites in high school, college, and graduate school, I haven't experimented with JavaScript and jQuery. This project is taking me out of my technological comfort zone, but I know it will be a valuable experience that I can draw upon for future lab and research projects as well as for course instruction. I have a stack of coding books being delivered to my office tomorrow, and I am looking forward to diving in and learning how to code these projects from scratch (and with the help of our project mentors!).
 
-{% include 404images.html %}
+{% include media/404images.html %}

@@ -16,4 +16,4 @@ Not only did I lean heavily on Open Context (and Eric Kansa in particular) for g
 
 If I had to launch tomorrow, I'd feel okay about it. Since I get a few extra days, though, I have a couple things on my to-do list. First and foremost is getting the Spanish version of the database up to make it bilingual and really accessible. And for major tech points, maybe I can collaborate with some folks to add pagination functionality to the return search results, so that people can browse through them. There's always more that can be done, and I'm guessing one of the last lessons I'll need to learn for this project is when to stop and say it's good enough.
 
-{% include 404images.html %}
+{% include media/404images.html %}

@@ -1,37 +1,37 @@
-<section class="py-5" id="news">
-  <div class="container">
-    
-    {% assign post = site.posts | first %}
-    <div class="row mb-5">
-        <div class="col-12">
-            <div class="card p-4">
-                <div class="card-body">
-                    <h2 class="card-title fw-bold">
-                        <a href="{{ post.url | relative_url }}" class="text-decoration-none text-dark">{{ post.title }}</a>
-                    </h2>
-                    <p class="card-subtitle text-muted mb-3">
-                        by 
-                        {% if post.author %}
-                            <span class="text-muted">{{ post.author }}</span>
-                        {% endif %}
-                        | <span class="published">{{ post.date | date: "%b %-d, %Y" }}</span>
-                        {% if post.categories and post.categories.size > 0 %}
-                            | <a href="{{ site.baseurl }}/categories/{{ post.categories[0] | slugify }}/" rel="category tag" class="text-decoration-none text-muted">{{ post.categories[0] }}</a>
-                        {% endif %}
-                    </p>
-                    <p class="card-text">
-                        {{ post.excerpt | strip_html | truncatewords: 40 }}
-                    </p>
+<section class="py-5" id="news" aria-labelledby="news-heading">
+    <div class="container">
+        
+        {% assign post = site.posts | first %}
+        <div class="row mb-5">
+                <div class="col-12">
+                        <div class="card p-4" aria-describedby="news-excerpt">
+                                <div class="card-body">
+                                        <h2 class="card-title fw-bold" id="news-heading">
+                                                <a href="{{ post.url | relative_url }}" class="text-decoration-none text-dark" aria-label="Read more about {{ post.title }}">{{ post.title }}</a>
+                                        </h2>
+                                        <p class="card-subtitle text-muted mb-3">
+                                                by 
+                                                {% if post.author %}
+                                                        <span class="text-muted">{{ post.author }}</span>
+                                                {% endif %}
+                                                | <span class="published">{{ post.date | date: "%b %-d, %Y" }}</span>
+                                                {% if post.categories and post.categories.size > 0 %}
+                                                        | <a href="{{ site.baseurl }}/categories/{{ post.categories[0] | slugify }}/" rel="category tag" class="text-decoration-none text-muted" aria-label="View all posts in {{ post.categories[0] }}">{{ post.categories[0] }}</a>
+                                                {% endif %}
+                                        </p>
+                                        <p class="card-text" id="news-excerpt">
+                                                {{ post.excerpt | strip_html | truncatewords: 40 }}
+                                        </p>
+                                </div>
+                        </div>
                 </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 text-center">
+                <a href="{{site.baseurl}}/news/" class="btn btn-outline-dark btn-lg text-uppercase" aria-label="See more news articles">See more news</a>
             </div>
         </div>
-    </div>
 
-    <div class="row">
-      <div class="col-12 text-center">
-        <a href="{{site.baseurl}}/news/" class="btn btn-outline-dark btn-lg text-uppercase">See more news</a>
-      </div>
     </div>
-
-  </div>
 </section>

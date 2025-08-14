@@ -28,4 +28,4 @@ Several years ago, one of our custom built programs became unsustainable and was
 
 The big takeaways have been expanded research, a wider audience for the data, and the recovery of important legacy data. Thanks Digital Archaeology!
 
-{% include 404images.html %}
+{% include media/404images.html %}

@@ -37,4 +37,4 @@ Many exciting and informative digital resources about Cherokee history are avail
 
 Pinch me, I think I'm dreaming.
 
-{% include 404images.html %}
+{% include media/404images.html %}

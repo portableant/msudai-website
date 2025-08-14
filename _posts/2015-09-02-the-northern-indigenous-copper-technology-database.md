@@ -33,4 +33,4 @@ Finally, this project also serves a role of engaging with indigenous descendant 
 
 But first I have to put all of this in a gantt chart…….
 
-{% include 404images.html %}
+{% include media/404images.html %}

@@ -1,26 +1,26 @@
 <div class="container-fluid">
     <div class="row">
-        {% for faculty in site.faculty %}
-        {% if faculty.role == "faculty" %}
-            <div class="col-12 mb-4">
-                <div class="card flex-row align-items-stretch h-100">
+    {% for faculty in site.faculty %}
+    {% if faculty.role == "faculty" %}
+        <div class="card mb-4 p-4" role="region" aria-labelledby="faculty-{{ forloop.index }}-name">
+            <div class="row justify-content-center">
+                <div class="col-12 text-center mb-3">
                     {% if faculty.image and faculty.image != "" %}
-                        <div class="col-md-3 d-flex align-items-center p-3">
-                            {% picture profile {{ faculty.image }} jpt-webp: {{ faculty.image }} 1:1 center class="card-img-left img-fluid h-100 w-100 object-fit-cover rounded" --alt {{ faculty.title }} %}
-                        </div>
+                    {% picture profile {{ faculty.image }} jpt-webp: {{ faculty.image }} 1:1 center class="rounded-circle object-fit-cover" style="width: 150px; height: 150px;" --alt "Portrait of {{ faculty.title }}" %}
                     {% endif %}
-                    <div class="card-body col-md-9">
-                        <h5 class="card-title">{{ faculty.title }}</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h6>
-                        <p class="card-text">{{ faculty.department }}</p>
-                        {% if faculty.website %}
-                            <a href="{{ faculty.website }}" class="card-link">{{ faculty.website }}</a>
-                        {% endif %}
-                        <p class="card-text mt-2">{{ faculty.content }}</p>
-                    </div>
+                </div>
+                <div class="col-12 text-start">
+                    <h5 class="card-title" id="faculty-{{ forloop.index }}-name">{{ faculty.title }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h6>
+                    <p class="card-text">{{ faculty.department }}</p>
+                    {% if faculty.website %}
+                    <a href="{{ faculty.website }}" class="card-link" aria-label="Website of {{ faculty.title }}">{{ faculty.website }}</a>
+                    {% endif %}
+                    <p class="card-text mt-2">{{ faculty.content }}</p>
                 </div>
             </div>
-        {% endif %}
-        {% endfor %}
-    </div>
+        </div>
+    {% endif %}
+    {% endfor %}
+    </div>  
 </div>

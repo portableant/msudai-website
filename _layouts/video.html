@@ -3,12 +3,11 @@ layout: default
 ---
 <div class="video-container mb-4">
 {% if page.video %}
-{% include video.html id=page.video %}
+{% include media/video.html id=page.video %}
 {% endif %}
 </div>
 
 {% if page.content %}
-
-    {{ content }}
-
+{%include structure/content.html %}
+{% else %}
 {% endif %}

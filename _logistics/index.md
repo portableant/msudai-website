@@ -47,3 +47,7 @@ East Lansing is a warm campus town nestled just east of Lansing, the capital of 
 ## About the Surrounding Area
 
 From the Michigan Capital in downtown Lansing, to the art galleries of Old Town, to the vibrant campus community in East Lansing, the Greater Lansing area offers a wide variety of entertainment, arts, culture, shopping, and dining experiences. More information is available from the Greater Lansing Convention & Visitors Bureau.
+
+## Locations used or visited during the Institute
+
+{% include structure/leaflet.html %}
