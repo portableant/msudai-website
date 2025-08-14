@@ -1,0 +1,38 @@
+{
+  "name": "msu-digital-archaeology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass _sass/_main.scss assets/css/main.css --load-path=node_modules",
+    "purgecss": "purgecss --css assets/css/main.css --content './**/*.html' --safelist '^.blockquoteCantundum.*$' '^blockquote.*$' --output _site/assets/css/main.min.css --rejected --rejected-css",
+    "js": "cp _js/main.js assets/js/main.js",
+    "build:css": "npm run sass",
+    "copy:fa-fonts": "cp node_modules/@fortawesome/fontawesome-free/webfonts/*.woff* assets/webfonts/",
+    "build:js": "rollup -c",
+    "build:assets": "npm run build:css && npm run build:js && npm run copy:fa-fonts",
+    "start": "npm run build:assets && bundle exec jekyll build  && npm run purgecss",
+    "develop": "npm run build:assets && bundle exec jekyll clean && bundle exec jekyll serve",
+    "clean": "bundle exec jekyll clean && rm -rf _site",
+    "build": "npm run clean && npm run build:assets"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "@popperjs/core": "^2.11.8",
+    "autoprefixer": "^10.4.21",
+    "bootstrap": "^5.3.7",
+    "purgecss": "^7.0.2",
+    "sass": "^1.89.2",
+    "vanilla-cookieconsent": "^3.1.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.6",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "rollup": "^2.79.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
