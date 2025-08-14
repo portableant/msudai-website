@@ -1,26 +1,24 @@
 <div class="container-fluid">
     <div class="row">
-        {% for faculty in site.faculty %}
-            {% if faculty.role == "director" %}
-                <div class="col-12 mb-4">
-                    <div class="card d-flex flex-row shadow-md">
-                        {% if faculty.image and faculty.image != "" %}
-                            <div class="flex-shrink-0">
-                                {% picture profile {{ faculty.image }} jpt-webp: {{ faculty.image }} 1:1 center class="card-img-left rounded-start h-100" --alt {{ faculty.title }} %}
-                            </div>
+{% for faculty in site.faculty %}
+{% if faculty.role == "director" %}
+
+<div class="card d-flex flex-column flex-md-row">
+  <div class="col-md-6 p-0 d-flex align-items-stretch">
+    {% if faculty.image and faculty.image != "" %}
+    {% picture profile {{ faculty.image }} jpt-webp: {{ faculty.image }} 1:1 center class="card-img-top card-img-md-left w-100 h-100 object-fit-cover rounded-top rounded-md-start" --alt {{ faculty.title }} %}
+    {% endif %}
+  </div>
+  <div class="col-md-6 p-4">
+    <h5 class="card-title">{{ faculty.title }}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h6>
+                        <p class="card-text">{{ faculty.department }}</p>
+                        {% if faculty.website %}
+                            <a href="{{ faculty.website }}" class="card-link">{{ faculty.website }}</a>
                         {% endif %}
-                        <div class="card-body">
-                            <h5 class="card-title">{{ faculty.title }}</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h6>
-                            <p class="card-text">{{ faculty.department }}</p>
-                            {% if faculty.website %}
-                                <a href="{{ faculty.website }}" class="card-link">{{ faculty.website }}</a>
-                            {% endif %}
-                            <p class="card-text mt-2">{{ faculty.content }}</p>
-                        </div>
+                        <p class="card-text mt-2">{{ faculty.content }}</p>
                     </div>
-                </div>
-            {% endif %}
-        {% endfor %}
-    </div>
+  </div>
 </div>
+{% endif %}
+{% endfor %}
