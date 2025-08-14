@@ -1,14 +1,15 @@
 // _sass/main.scss
 
 $fa-font-display: swap;
-
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts"; // Set Font Awesome font path
 
 // Import Bootstrap
 @import "bootstrap/scss/bootstrap.scss";
 // ... (your existing imports)
 
 @import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
-
+@import "@fortawesome/fontawesome-free/scss/solid.scss";   // For solid icons
+@import "@fortawesome/fontawesome-free/scss/brands.scss";  
 // Ensure font-display: swap is set for Font Awesome fonts
 @font-face {
     font-family: "Font Awesome 6 Free";
@@ -34,8 +35,7 @@ $fa-font-display: swap;
     src: url("#{$fa-font-path}/fa-brands-400.woff2") format("woff2"),
              url("#{$fa-font-path}/fa-brands-400.woff") format("woff");
 }
-@import "@fortawesome/fontawesome-free/scss/solid.scss";   // For solid icons
-@import "@fortawesome/fontawesome-free/scss/brands.scss";  // For brand icons
+// For brand icons
 // Add other styles like regular or light if needed
 // Define your custom variables before importing Bootstrap if you want to override defaults
 $primary: #0d474e;   // Michighan State University Green
