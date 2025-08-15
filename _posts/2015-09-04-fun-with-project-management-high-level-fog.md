@@ -4,6 +4,7 @@ author: Jolene Smith
 date: 2015-09-04
 layout: default
 categories: ["Institute Project"]
+tags: ["project management", "digital archaeology", "archaeology", "Nevada", "public archaeology"]
 ---
 
 This week's task was very high-level planning, mostly inside my own head, but also beginning to involve others from my agency. Since my Institute project will in reality be a bite-sized version of a much bigger agency data management project, deliberate and careful planning is a very high priority.

@@ -5,8 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% seo %}
     <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.min.css">
-      <link rel="preconnect" href="https://fonts.googleapis.com">
+    {% if jekyll.environment == "production" %}
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.min.css">
+    {% else %}
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+    {% endif %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 

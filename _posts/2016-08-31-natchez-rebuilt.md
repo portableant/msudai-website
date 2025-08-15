@@ -3,6 +3,8 @@ title: Natchez Rebuilt
 author: Sarah M. Rowe
 date: 2016-08-31
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "Natchez", "reconstruction", "3D modeling", "interactive media"]
 ---
 
 With the culmination of our year of digital archaeology, what have I ended up with? To recap my original goals:

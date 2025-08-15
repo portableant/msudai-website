@@ -4,6 +4,7 @@ author: Michele Koons
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "crowdsourcing", "project workflow", "data collection", "data cleaning"]
 ---
 
 I am so grateful to have experienced MSUDAI. What an amazing group of dedicated individuals! I am now back to the daily rush and hoping I can hang onto all that I've learned and absorbed over the last year. I'm not going to lie; I wish I was able to accomplish so much more, but after the final week of the institute, I feel much better than I did in the weeks prior.

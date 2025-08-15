@@ -4,6 +4,7 @@ author: alimcmichael
 date: 2016-08-11
 layout: default
 categories: ["Institute Project"]
+tags: ["data cleaning", "digital archaeology", "data collection", "Open Context", "PeriodO"]
 ---
 
 This year's project has been an exercise in exploring what "data" means in the humanities and thinking about research as data collection. It has left me pondering how, on one hand, initial research and data collection and the data cleaning process(es) can be viewed as a single, messy procedure, or on the other hand, as three separate efforts. Clearly, even thinking about data is a messy process, and I've learned to find some comfort in that concept, rather than impatience or shame. However, I'm also committed to the idea that the heart of my project is learning to produce a quality, peer-reviewable, re-usable data set and am committed to learning best practice for that task, messy though it may be.

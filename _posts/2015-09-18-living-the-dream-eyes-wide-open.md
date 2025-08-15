@@ -4,6 +4,7 @@ author: Kathryn Sampeck
 date: 2015-09-18
 layout: default
 categories: ["Institute Project"]
+tags: ["Cherokee", "digital repository", "KORA", "mobile app", "archaeology", "public outreach"]
 ---
 
 I think most archaeologists would agree that time gives us perspective. Each day of the intense week in August 2015 of training during the Institute on Digital Archaeology Method and Practice at Michigan State University was not just eye-opening, it was deeply revelatory. Topics as seemingly mundane as "digital publishing"—which sounds like a how-to manual for properly formatting and uploading papers—in fact called into question the nature of the academy today and our goals as academics. Just what are we doing, and why? The how-to portions of the workshop were equally astounding, introducing us to a new world of open source data and tools that make the archaeological world and possibilities for understanding it so much grander than before. Given the overwhelming opportunities for better understanding and sharing knowledge, it is daunting to decide on the exactly what to do and smartest way to do it. But reaching for something doable does not mean sacrificing what seemed a dream.

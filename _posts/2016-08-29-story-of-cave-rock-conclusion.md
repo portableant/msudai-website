@@ -4,6 +4,7 @@ author: Beth Smith
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]
+tags: ["open source", "public archaeology", "Cave Rock", "3D representation", "historic photos"]
 ---
 
 The Story of Cave Rock project began in February of 2015 and was the outcome of several events. A large scale rock fall from Cave Rock at Lake Tahoe, Nevada, had damaged US 50, and more events were likely in the future. The Nevada Department of Transportation was searching for a way to protect the public from future rock falls, and minimize visual effects to the landscape. At the same time, I was searching for a collection of glass photo negatives, rumored to contain photos from the earliest days of the Nevada Highway Department. The Story of Cave Rock website was created using the photogrammetry collected by NDOT to engineer a solution to the rock fall, as well as the historic photos of Cave Rock from historic archives. Fortunately the NEH funded Institute on Digital Archaeology Method & Practice was in the making, and I was lucky enough to be invited to participate at Michigan State University. The direction provided by the faculty, mentors and participants are what made the final website possible.

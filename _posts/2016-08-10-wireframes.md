@@ -4,6 +4,7 @@ author: Jolene Smith
 date: 2016-08-10
 layout: default
 categories: ["Updates"]
+tags: ["wireframes", "digital archaeology", "archaeology", "Virginia", "Virginia Department of Historic Resources"]
 ---
 
 With the help of the wonderful folks at MATRIX, I'm still trying my darnedest (and not succeeding) at getting the KORA WordPress plugin to work. Which means I'm still a little stalled. Since I don't yet know how the plugin behaves and I'm new at significant WordPress fiddling, I don't want to spend a whole lot of time with painstaking selection of a theme that won't work. I'm probably doing something stupid with the plugin install process; for now I'm just waiting to figure out what it is.

@@ -4,6 +4,7 @@ author: Judy Voelker
 date: 2015-09-13
 layout: default
 categories: ["Institute Project"]
+tags: ["Fort Ancient", "archaeology", "public outreach", "Northern Kentucky", "digital archaeology"]
 ---
 
 My name is Judy Voelker, I am an associate professor of anthropology at Northern Kentucky University (NKU). I also serve as Director at the NKU Museum of Anthropology where we strive for ways for students to understand and analyze human interactions. The museum promotes cultural awareness through exhibits, presentations, and outreach. New methods to present data on-line and to maintain collections are essential to broadening the reach of archaeological knowledge.

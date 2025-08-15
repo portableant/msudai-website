@@ -4,6 +4,7 @@ author: Ashley Peles
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["ReCreating Natchez", "digital archaeology", "Unity3D", "archaeological reconstruction"]
 ---
 
 Hi everyone! My name is Ashley Peles and I am currently a doctoral candidate at UNC-Chapel Hill. My research is based around understanding foodways through both floral and faunal analysis. In particular, my doctoral research involves the analysis of assemblages from three Late Woodland mound sites in the Lower Mississippi Valley, one of which dates between A.D. 400-700 (Baytown period) and two that date between A.D. 700-1200 (Coles Creek period). Part of my interest in digital archaeology stems from this work. All or parts of these mounds have completely disappeared and what is left is seen in a drastically different setting than it originally would have been experienced. On top of this, mounds were built and added to at different times, meaning that each site would have been experienced differently depending upon where we look in the site's lifecycle. With that in mind, I have been interested for a long time in learning digital technologies that could help archaeologists create relatively accurate reconstructions of archaeological sites.

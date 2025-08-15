@@ -4,6 +4,7 @@ author: ngupta
 date: 2016-07-20
 layout: default
 categories: ["Institute Project"]
+tags: ["Mapbox", "Leaflet", "marker clustering", "webmaps", "geocoding", "data quality", "archaeology", "visualization", "MINA", "spatial data"]
 ---
 
 Since the last post, I've been working with Mapbox and Leaflet. I decided to branch my repo to work on a non-WebGL-based webmap. I am focusing on existing map interaction tools such as marker clustering that reduce the 'visual load' in MINA. As I discussed in my previous post, there were several issues with the webmap. In addition to a noticeable lag when interacting with the map, the density of markers made it difficult to make visual sense (ie. actually see spatial patterns). I want to use webmaps to gain a better understanding of archaeological phenomena, and clustering techniques seem a good next step to facilitate deeper insights into archaeological data.

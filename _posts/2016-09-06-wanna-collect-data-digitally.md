@@ -3,6 +3,8 @@ title: Wanna collect data digitally?
 author: Ben Carter 
 date: 2016-09-06
 layout: default
+categories: ["Institute Project"]
+tags: ["digital data collection", "archaeology", "digital archaeology", "open source", "tools"]
 ---
 
 This is my final post as a participant in the Institute for Digital Archaeology. This post serves three purposes. First, I announce a resource that I have created to enable digital data collection in archaeology. Second, I want to mention a few of my favorite aspects of the Institute. Finally, I just want to say a few thanks.

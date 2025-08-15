@@ -4,6 +4,7 @@ author: Alex Parsons
 date: 2016-08-31
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 It’s been a little over a week now since the Institute ended.  The second meeting was very different from the first because we were all working on our projects while we were in Michigan.  We had informative lectures in the morning about a variety of topics then worked on our projects in the afternoon.  It was really great to sit in a room full of people who were making things that didn’t previously exist.  It was a week of intensely focused work and it was incredible!  It was honestly an inspiration to work with such a positive, productive group.  Although everyone worked on their own project it felt like we were working as a team.  We helped each other out by listening and trouble-shooting together and we shared our experiences of successes and failures.  The second meeting forged long-term friendships and partnerships that will continue even though the Institute is over.  It was hard to say goodbye to everyone – I miss all my friends and the amazing team we formed.
 

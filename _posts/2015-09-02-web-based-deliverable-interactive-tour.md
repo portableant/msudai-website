@@ -4,6 +4,7 @@ author: Tabitha Hilliard
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["web-based deliverable", "interactive tour", "digital archaeology", "New Jersey", "Pinelands"]
 ---
 
 The purpose of this project is to create a web-based deliverable that will enhance community interest in local heritage. The site of interest is located in the Pinelands of New Jersey. I am still working out the details with the project partners at this time. Until a final agreement is settled between myself and all the project partners, I can not reveal the site name or location. However, I can tell you a few things about the design of the project.

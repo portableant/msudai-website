@@ -4,6 +4,7 @@ author: Ann Stahl
 date: 2015-08-31
 layout: default
 categories: ["Institute Project"]
+tags: ["Banda Research Project", "digital archaeology", "Ghana", "public engagement", "repository"]
 ---
 
 My name is Ann Stahl and I chair the Department of Anthropology at the University of Victoria in British Columbia, Canada. Since 1986 I've coordinated the Banda Research Project (BRP) which centers on how villagers in the Banda area of west central Ghana have engaged shifting global entanglements. These include involvement in the Saharan trade from about 1200 CE; the effects of an intensifying Atlantic trade from the early 18th century; the imposition of British colonial rule at the end of the 19th century; and the unfolding situation associated with the recent construction by the Chinese firm SinoHydro of a hydroelectric dam on the Black Volta River. The latter is bringing people from across Ghana and the world to a place that was until recently in Ghana lingo considered a 'dead-end place'—one where transport ended, but which, of course, has had a long and dynamic history.

@@ -3,6 +3,8 @@ title: "On Beginnings: The Future of the Dead is Digital"
 author: Katherine Cook
 date: 2016-08-31
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 --- 
 
 The Monumental Archive Project launched officially last week as the culmination of the Digital Archaeology Institute at Michigan State University. One year ago, almost to the day, I penned the first MAP blog (and in fact, one of my first blogs ever). One Heritage Jam entry, one hackathon, and many a blog later, I have coded, hacked, failed, succeeded, tweeted, and cobbled together a number of digital things. In many ways, it has been so full of endings, beginnings and progressing on so many levels that I hardly know where to start when I am asked to summarise the year. From finishing my PhD to starting three new academic jobs (most recently at the University of Victoria, BC), the experiences of hacking, failing, succeeding and cobbling of the digital world seem to have leached into all part of my life.

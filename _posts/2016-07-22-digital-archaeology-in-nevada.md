@@ -4,6 +4,7 @@ author: Beth Smith
 date: 2016-07-22
 layout: default
 categories: ["Institute Project"]
+tags: ["open source", "public archaeology", "Cave Rock", "3D representation", "historic photos"]
 ---
 
 During July I have concentrated on building the objects for the Cave Rock Website – building the timeline with historic photos and the 3D representation of Cave Rock before 1849.

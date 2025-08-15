@@ -4,6 +4,7 @@ author: Jolene Smith
 date: 2016-08-21
 layout: default
 categories: ["Updates"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 
 I'm sitting in the Detroit airport on two hours of sleep (after staying up way too late and waking up way too early) and feeling feelings. Wednesday after we finished our day at the Institute it hit me. We had passed the halfway point for the week. We were closer to the end than to the beginning. And it made me really, really sad.

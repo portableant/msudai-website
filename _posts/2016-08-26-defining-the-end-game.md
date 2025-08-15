@@ -4,6 +4,7 @@ author: Alice-Lynn McMichael
 date: 2016-08-26
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 
 As I compose my final blog post and white paper, I decided to post this edited version of the presentation I gave on the first day of the 2016 institute on August 15, with heartfelt thanks for the support and mentorship received over the week.

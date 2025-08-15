@@ -24,12 +24,14 @@ This was perfect for me because it gave me an opportunity to meet with Kathleen 
 So what is it that I have now? My biggest goal for the presentation I gave at the conference was to have a flythrough of my recreation thus far, which would provide everyone else an opportunity to see my project in more than just still shot form. I've had two primary ways to go about this. The first is an asset for Unity called the Camera Path Animator and the second is a Unity community asset called the Hermite Spline Controller. The for-purchase asset (Camera Path) was originally created for an earlier version of Unity and throws up some warning messages when I loaded it in – I don't think these are so serious that they would cause the asset to actually not work, but I also haven't done much messing around with code yet. The Hermite Spline Controller, being both free and throwing up no errors, was thus what I chose for my test run. It's also a bit simpler than the Camera Path Animator (although more simple also means a little less in the way of functionality, without adding in your own code). Here is what I came up with:
 
 ![](https://vimeo.com/155458491)
-*1720s Natchez Flythrough from ArchDigger on Vimeo*
 
-I had somewhat been dreading the process of creating a flythrough, so I want to publicly admit here that it's embarrassingly easy. I also created some tabletop spins of my buildings in 3ds max. The one below this paragraph is a representation of what the soldier's barracks might have looked like. The reflectivity is a bit high because I was primarily concerned about getting rid of what had originally been some pretty harsh shadows. I've posted both of these videos (as well as some more building spins) on a vimeo page, located here (ArchDigger).
+**1720s Natchez Flythrough from ArchDigger on Vimeo**
+
+I had somewhat been dreading the process of creating a flythrough, so I want to publicly admit here that it's embarrassingly easy. I also created some tabletop spins of my buildings in 3ds max. The one below this paragraph is a representation of what the soldier's barracks might have looked like. The reflectivity is a bit high because I was primarily concerned about getting rid of what had originally been some pretty harsh shadows. I've posted both of these videos (as well as some more building spins) on a vimeo page, located [here](https://vimeo.com/archdigger).
 
 ![](https://vimeo.com/155475603)
-*French Barracks from ArchDigger on Vimeo*
+
+**French Barracks from ArchDigger on Vimeo**
 
 By presenting my work publicly at a conference (my talk walked through the documentation that lays behind the reconstruction), meeting with NPS representatives, and creating these videos, I was actually able to fix a lot of little, annoying, but important file issues in 3ds max (some buildings had incorrect files linked for various texture wrapping, causing odd ghosting, others had broken links from when I had moved things around). I also created some more set models for all current building "base models" – previously I had to move around bits and pieces and textures in Unity to do this, but now I have specific models for each. If I want to change things around again at some point, this will make things easier in Unity. It also will make things easier for when I start creating my interactive pop-up window.
 

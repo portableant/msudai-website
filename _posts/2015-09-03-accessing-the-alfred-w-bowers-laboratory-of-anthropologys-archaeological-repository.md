@@ -4,6 +4,7 @@ author: Stacey Camp
 date: 2015-09-03
 layout: default
 categories: ["Institute Project"]
+tags: ["repository", "archaeology", "digital archaeology", "University of Idaho", "public outreach"]
 ---
 
 It has been close to two weeks since I left MSU's Institute for Digital Archaeology Method & Practice, and my mind is still on information overload from all the tools, techniques, and new technologies I acquired while attending it. My name is Stacey Camp and I currently serve a dual role at the University of Idaho; I am a director of one of three state archaeological repositories in Idaho (the "Alfred W. Bowers Laboratory of Anthropology"), and I also am an Associate Professor of Anthropology. This institute helped me "recharge" my batteries since undergoing a number of substantial academic transitions since late 2013, which include taking over the directorship of the lab in late fall 2013, receiving tenure in the summer of 2013, and taking a sabbatical during the fall 2014. These transitions have made me seek out alternative ways of communicating and disseminating archaeological knowledge, which is why I was very excited to hear that I was accepted into this NEH institute.

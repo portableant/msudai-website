@@ -4,6 +4,7 @@ author: Matthew Pike
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "crowdsourcing", "project workflow", "data collection", "data cleaning"]
 ---
 
 With a week of reflection after departing MSUDAI 2.0, I have come to realize that what I was able to create in the CopperMINeS Digital Atlas is nowhere near a finished product (not a surprise) but is actually a fantastic starting point from which I can build what I envisioned during the inaugural MSUDAI in 2015. Originally I had intended a very dynamic site, with search and filter functions that could group and display sites and artifacts by any number of different attributes. In short, I wanted to be able to query the website to show me Thule fish hooks from Coronation Gulf, Caribou Inuit spear points from the Barrenlands, or Dorset decorative objects from the Foxe Basin, and the website would produce a list of images and their associated sites, with contextual information for both and a geo-spatial display of the distribution of objects and sites. All of this would have been linked to a database that could be updated as new sites and objects were added, and would automatically update the the accessible information on the website as well.

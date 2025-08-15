@@ -4,6 +4,7 @@ author: Ethan Watrall
 date: 2014-11-24
 layout: default
 categories: ["Institute News", "Updates"]
+tags: ["Institute for Digital Archaeology Method & Practice", "digital archaeology", "archaeology", "open source", "NEH"]
 ---
 
 Archaeology has a long history of innovative work with information and computing technologies. One of the earliest example comes from James Deetz's seminal work on Arikara ceramics carried out in the very early 1960s. Deetz used an IBM mainframe (the IBM704 at the MIT Computation Laboratory, to be precise) to discover "stylistic coherence" on over two thousand rim sherds from central South Dakota's Medicine Crow site. Deetz's work was extremely important as it suggested that computers were excellent tools for statistical, typological, chronological, or stylistic analysis of large, complex, and messy sets of data (a hallmark of archaeology). Since these early and formative days, the focus on the storage, analysis, and preservation of digital data has remained paramount within the archaeological community.

@@ -10,6 +10,7 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts"; // Set Font Awesome fo
 @import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
 @import "@fortawesome/fontawesome-free/scss/solid.scss";   // For solid icons
 @import "@fortawesome/fontawesome-free/scss/brands.scss";  
+
 // Ensure font-display: swap is set for Font Awesome fonts
 @font-face {
     font-family: "Font Awesome 6 Free";
@@ -38,10 +39,10 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts"; // Set Font Awesome fo
 // For brand icons
 // Add other styles like regular or light if needed
 // Define your custom variables before importing Bootstrap if you want to override defaults
-$primary: #0d474e;   // Michighan State University Green
+$primary:   #0d474e;   // Michigan State University Green
 $secondary: #fbede2;
-$white: #ffffff;     // Pure White
-$black: #000000;     // Pure Black
+$white:     #ffffff;   // Pure White
+$black:     #000000;   // Pure Black
 
 // Add your custom styles here
 body {
@@ -51,22 +52,25 @@ body {
     font-size: 14px;
     font-weight: 500;
 }
+
 #front-center {
     background-color: $primary;
     color: $white;
     padding: 60px 0;
-  
 }
+
 #about {
     background-color: $secondary;
     color: $white;
     padding: 60px 0;
 }
+
 #news {
     background-color: $secondary;
     color: $black;
     padding: 60px 0;
 }
+
 .navbar {
     background-color: $secondary;
     .nav-link {
@@ -77,11 +81,13 @@ body {
         }
     }
 }
+
 main {
     padding: 20px;
     background-color: $secondary;
     color: $black;
-}   
+}
+
 .card {
     border: none;
     background-color: $white;
@@ -90,6 +96,7 @@ main {
         color: $primary;
     }
 }
+
 .card a {
     color: $primary;
     text-decoration: none;
@@ -102,6 +109,7 @@ main {
         text-decoration: underline;
     }
 }
+
 .pagination {
     .page-link {
         color: $primary;
@@ -127,6 +135,7 @@ main {
         border-color: $white;
     }
 }
+
 footer {
     background-color: $primary;
     color: $white;
@@ -137,7 +146,6 @@ footer {
         }
     }
 }
-
 
 table.programme-table a {
     color: $primary;
@@ -152,29 +160,42 @@ table.programme-table a {
 }
 
 .bg-msu {
-  background-color: #0d474e   !important;
-}   
+    background-color: #0d474e !important;
+}
+
 main a {
     color: #c15d00;
 }
+
 h1 {
     font-weight: 600;
 }
+
 #top-banner {
     background: url('/images/backgrounds/91.jpg') no-repeat center center/cover;
 }
 
- .noto-sans-500 {
-            font-family: "Noto Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: normal;
-            font-variation-settings: "width" 100;
-        }
-        .noto-sans-700 {
-            font-family: "Noto Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 700;
-            font-style: normal;
-            font-variation-settings: "width" 100;
-        }
+.noto-sans-500 {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+}
+
+.noto-sans-700 {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+}
+.badge-primary-custom {
+    background-color: $primary;
+    color: $secondary;
+    padding: 0.35em 0.65em;
+    font-size: 0.75em;
+    font-weight: 600;
+    border-radius: 0.25rem;
+    display: inline-block;
+}

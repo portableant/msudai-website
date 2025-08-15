@@ -3,6 +3,8 @@ title: "Introducing MINA | Map Indian Archaeology"
 author: Neha Gupta
 date: 2016-09-05
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 This is my final post for the Institute. I take this opportunity to thank Ethan and Lynne for the chance to participate in the Institute. I am grateful to the faculty and participants for their ideas and support. Collectively, the Institute has been incredibly encouraging and I am thrilled to know experts to whom I can turn to as I further develop my public digital project.
 

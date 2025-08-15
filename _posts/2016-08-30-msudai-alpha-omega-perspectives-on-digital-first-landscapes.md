@@ -3,8 +3,11 @@ title: "Alpha and Omega: Perspectives on Digital First Landscapes"
 author: Kathryn Sampeck
 date: 2016-08-30
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "Cherokee heritage", "KORA", "mbira", "3D modeling", "digital repository"]
 ---
 I am experiencing a bit of a philosophical conundrum. How can something end, when it feels like it is just the beginning? In my case, I started, then I stopped, then I started again. And now it’s over, but I am going. The conundrum deepens, as I have a launchless launch. Yet I have a thing—a project—and completed elements of that project. Oddly enough, the project and the elements are exactly what I dreamed of. In fact, they reach well beyond what I had imagined. For the time being, however, the thing (that does exist!) has to remain invisible (in that it is not yet ready for public consumption). It is a lesson in delayed gratification for me, for my research partners, and for the potential audiences of the project.
+
 The MSU DAI plan was excellent, but even the best laid plans cannot keep some, like me, on track. My first (alpha) post outlined my goal to create:
 
 * A digital repository of archaeological and historical data suited to Tribal Historic Preservation Office management needs (using KORA)
@@ -14,7 +17,9 @@ The MSU DAI plan was excellent, but even the best laid plans cannot keep some, l
 I started the intervening year with every intention of meeting deadlines, but the best intentions can go awry. My success was in proselytizing about the Institute to whoever would listen, whenever, and referring different researchers to DAI faculty when it seemed like a good connection. It became even clearer as the year progressed how important landscape repatriation was to many Native American/First Nation communities. A quick perusal of the talks given for the Radcliffe Institute-Harvard Native American Program conference “Native Peoples/Native Politics” shows how consistently vital the land is as a point of origin for Native communities. Land is the site and embodiment of generations of legal travesties, memory, beauty in enduring practice, poetic semantic positioning, and brutal struggle. The enthusiasm of indigenous community members for digital enlivening of the native landscape through something as simple yet powerful as a phone app is an exciting possibility.
 
 My greatest failure was in regular work and communication. The discussion boards, mentorship affiliations, and consistent communication from DAI faculty were all reasonable ways to keep projects going. Looking back, I wonder where the year went! No matter my personal or other professional demands, I should not have let them derail consistent, steady efforts. So, I have some regrets, as I realize that in upcoming work I will be implementing many tools, methods, and environments presented in training sessions and deployed impressively by the other DAI fellows in their projects. It would have been much easier to get my sea legs during the institute than after.
+
 But, here’s the beauty of the Institute: we are all now, and can bring in others into, to a large, vibrant, supportive community. Perhaps the clearest message of all of the DAI training is that there is no need to reinvent the wheel. Most anything we can dream of is out there, or at least parts of it, and others will help in different ways and to different degrees to put it together, as that help makes it possible for others make living the thing, the activity, the experience that they dream of. The sharing of methods, ideas, and tools shatters any possibility of knowledge being a zero sum game.
+
 During the Institute’s week of meetings of the second year (August 2016), I rode the rollercoaster of imagining perfectly logical but rarely realized ways of presenting and experiencing archaeological data, working with Shawn Graham especially on fiddling with ways to make it come together, and alternate waves of joy, satisfaction, and heartbreak in learning how to use new programs and platforms (Meshlab, SketchUp, and Sketchfab).
 
 ![A digital model of Cowee]({{site.baseurl}}/images/posts/Meshlab_Cowee.jpg){: .img-fluid }

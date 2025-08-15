@@ -4,6 +4,7 @@ author: Matthew Pike
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["copper technology", "Arctic archaeology", "Subarctic archaeology", "digital archaeology", "database"]
 ---
 
 Over the last 2 years I have been compiling a database of copper artifacts from across Northern North America, with a specific focus on Arctic and Subarctic contexts from the Northwest Territories and Nunavut, Canada. This dataset builds upon an already substantial database of copper artifacts from Alaska, Yukon, and British Columbia that my adviser (Dr. H. Kory Cooper) and another colleague (Garett Hunt) have been compiling. Like all archaeological collections, this database will never be 'complete', but it is certainly a comprehensive representation of copper metallurgy across Arctic and Subarctic North America.

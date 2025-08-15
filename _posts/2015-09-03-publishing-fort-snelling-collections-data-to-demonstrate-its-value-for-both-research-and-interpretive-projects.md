@@ -4,6 +4,7 @@ author: Nancy Hoffman
 date: 2015-09-03
 layout: default
 categories: ["Institute Project"]
+tags: ["Fort Snelling", "archaeology", "digital archaeology", "Minnesota Historical Society", "Open Context"]
 ---
 
 I plan to publish electronic catalog records for the Historic Fort Snelling archaeology collections held by the Minnesota Historical Society (MNHS) to [Open Context](http://opencontext.org/) to make them available for scholarly research, specifically for use by University of Minnesota research partner Dr. Kathryn Hayes and her students. Using the Open Context API, I also plan to include selected records in a proof-of-concept mobile website designed to enhance public interpretation of the historic site.

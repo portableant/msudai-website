@@ -3,6 +3,28 @@ title: "Virginia Archaeology for Everyone: That's [Almost] A Wrap!"
 author: Jolene Smith
 date: 2016-08-29
 layout: default
+tags: 
+    - digital archaeology
+    - Virginia
+    - WordPress
+    - KORA
+    - metadata
+    - digital archives
+    - public engagement
+    - Linked Open Data
+    - data visualization
+    - open access
+    - cultural sensitivity
+    - artifact data
+    - crowdsourcing
+    - Leaflet.js
+    - OpenRefine
+    - Tabula
+    - APIs
+    - copyright
+    - intellectual property
+    - digital exhibits
+    - mobile data collection
 categories: ["Institute Project"]
 ---
 

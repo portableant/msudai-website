@@ -1,0 +1,36 @@
+---
+layout: default
+title: Tags
+---
+
+{% assign tagged_posts = site.posts | where_exp: "post", "post.tags contains page.tag" %}
+<h3>{{ tagged_posts.size }} post{% if tagged_posts.size != 1 %}s{% endif %} with this tag </h3>
+{% for post in site.posts %}
+  {% if post.tags contains page.tag %}
+    <div class="col-12 mb-4">
+      <div class="card shadow w-100">
+        <div class="card-body">
+          <h2 class="card-title">
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </h2>
+          <p class="card-subtitle mb-2 text-muted">
+            <small>
+              {{ post.date | date: "%B %d, %Y" }}
+              {% if post.author %}
+                &nbsp;|&nbsp;By {{ post.author }}
+              {% endif %}
+            </small>
+          </p>
+          <p class="card-text">
+            {% assign words = post.excerpt | split: ' ' %}
+            {% if words.size > 50 %}
+              {{ words | slice: 0, 50 | join: ' ' }}...
+            {% else %}
+              {{ post.excerpt  | slice: 0, 50 | join: ' ' }}
+            {% endif %}
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}

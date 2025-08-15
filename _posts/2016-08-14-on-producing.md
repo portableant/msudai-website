@@ -4,6 +4,7 @@ author: Kate Ellenberger
 date: 2016-08-14
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 
 This is another blog post about the inner life of a researcher pursuing a digital humanities project. Surprise, surprise, I am being introspective again. Today we all arrive in Michigan for year 2 of the Institute, and I've been working on my Day 1 presentation, reflecting on my progress. When speaking with other institute members, a common thread is feeling we could have done more somehow. It's been a whole year, surely we should have it all figured out by now!

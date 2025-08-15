@@ -3,6 +3,8 @@ title: "What’s your digital style?"
 author: Ann Stahl
 date: 2016-08-29
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 
 Having had the privilege to work with a remarkable group of collegial and creative people through the Digital Archaeology Institute (DAI), I’ve observed a continuum of styles that I’ve come to think as “cannon ballers” and “toe dippers.” Cannon ballers fearlessly plunge themselves into the digital deep end, reveling in the splash and fun of messing about. Toe dippers approach digital waters cautiously, wading in, reaching waist level only after prolonged acclimation. I am definitely a toe-dipper in the rising tide of digital methods, and in this last DAI post I reflect on some lessons learned and “had I knowns.” After a short recap of “Banda thru Time” project aims, I look back on the downside of some toe-dipping decisions so that others might avoid the eddies that compromised our project progress along the way.

@@ -4,6 +4,7 @@ author: Sarah M. Rowe
 date: 2016-08-14
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 
 As we approach the second week of the Institute and the official launch of our projects, my main emotion is amazement that I actually managed to put together something close to what I intended. I started off pretty much as a complete novice about digital methods. The one place where I may have had a leg up is that I came in with a pretty well-formatted database, as it was what I used for my dissertation research. I figured out how to make a website with Bootstrap, how to make it actually live on the web, and then, most importantly of all, I learned to ask for help and utilize the resources that others have developed.

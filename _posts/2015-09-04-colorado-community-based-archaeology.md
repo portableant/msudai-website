@@ -4,6 +4,7 @@ author: Michele Koons
 date: 2015-09-04
 layout: default
 categories: ["Institute Project"]
+tags: ["community-based archaeology", "Magic Mountain", "Denver Museum of Nature & Science", "archaeology", "digital archaeology"]
 ---
 
 Hi! My name is Michele Koons. As Curator of Archaeology at the Denver Museum of Nature & Science (DMNS), my job is to conduct field research, communicate archaeology effectively to a wide audience, and curate the archaeology collection. It was a true honor to have the opportunity to attend the Digital Archaeology Institute at Michigan State University this year. I added so many exciting tools to my archaeology toolkit! Because I am involved in so many diverse projects, it was difficult to pick just one to focus on for the institute. Nonetheless, I decided to focus on building a digital platform for a community-based archaeology program that we are just getting off the ground.

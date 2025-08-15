@@ -4,6 +4,7 @@ author: wteeter
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["Eagles Nest", "Catalina Island", "archaeology", "digital archaeology", "Pimu Catalina Island Archaeology Project"]
 ---
 
 My name is Wendy Giddens Teeter, Curator of Archaeology at the Fowler Museum at UCLA. As an archaeologist I am a Co-Director of the Pimu Catalina Island Archaeology Project (PCIAP). This blog is to document the creation of a website to present our work at Eagles Nest Hunting Lodge on Catalina Island. Aside from excavation at this historic location, our mission is to understand and protect the more than 8,000 years of cultural history on the island while working with the Gabrielino/Tongva community and local islanders. With more than 100 years of previous archaeological research, we hope to build off these undertakings and support new research projects using new methods, knowledge, and technology. Please see pimu.weebly.com for further information.

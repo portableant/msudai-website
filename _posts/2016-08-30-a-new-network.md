@@ -3,6 +3,8 @@ title: A New Network
 author: Nancy Hoffman
 date: 2016-08-30
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "data collection", "data cleaning"]
 ---
 
 Historic Fort Snelling from Round Tower

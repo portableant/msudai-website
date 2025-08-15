@@ -4,6 +4,7 @@ author: Ashley Peles
 date: 2016-03-17
 layout: default
 categories: ["Institute Project", "Updates"]
+tags: ["Unity", "UI", "popup", "annotations", "interactive", "coding", "games"]
 ---
 
 I initially thought that this was going to be an update where I described my failures. Perhaps I should back up a bit and start closer to the beginning, however…

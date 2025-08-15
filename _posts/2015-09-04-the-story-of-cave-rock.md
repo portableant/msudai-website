@@ -4,6 +4,7 @@ author: Beth Smith
 date: 2015-09-04
 layout: default
 categories: ["Institute Project"]
+tags: ["Cave Rock", "archaeology", "digital archaeology", "Nevada", "public archaeology"]
 ---
 
 Cave Rock, located at Lake Tahoe in Nevada, is an important landscape feature to the communities of the Tahoe Basin and the focus of my Institute project. The prominent rock outcrop extends down from the Tahoe Basin rim into the water, and is a sentinel feature with important cultural associations both in the past and present. Several early 20th century Lincoln Highway tunnel projects were completed through the rock without input from the Native American that traditionally lived at Lake Tahoe, who believe that the rock cannot be altered without spiritual repercussions.

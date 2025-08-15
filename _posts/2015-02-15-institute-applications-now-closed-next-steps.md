@@ -4,6 +4,7 @@ author: Ethan Watrall
 date: 2015-02-15
 layout: default
 categories: ["Institute News"]
+tags: ["Institute for Digital Archaeology Method & Practice", "digital archaeology", "archaeology", "open source", "NEH"]
 ---
 
 Well, its official folks – the application deadline for the NEH funded Institute for Digital Archaeology Method and Practice has passed. Quite honestly, we're blown away by the amount of interest the institute has received. We received 187 applications from every corner of the archaeological (and associated disciplinary) world. CRM companies, state and federal institutions, museums, heritage institutions and organizations, universities, archives, libraries, and independent scholars – all were represented from among the applicants. We were particularly impressed that from the academic world, applications ranged from the most junior of graduate students to department chairs (and even a Dean).

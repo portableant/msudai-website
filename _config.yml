@@ -54,6 +54,7 @@ collections:
     output: true
   logistics:
     output: true
+    permalink: /logistics/:title/
   schedule:
     output: true 
     permalink: /schedule/:title/

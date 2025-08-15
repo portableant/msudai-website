@@ -4,6 +4,7 @@ author: ngupta
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["Indian archaeology", "digital archaeology", "GIS", "open source"]
 ---
 
 Hello, I want to introduce you to "Map Indian Archaeology", a web-based map platform that can enable linking to dynamic and static sources of information on the practice of archaeology in India. Archaeology in Independent India is socially and politically sensitive. This situation impacts the collection and interpretation of archaeological data.

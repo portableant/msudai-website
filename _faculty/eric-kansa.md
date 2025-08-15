@@ -3,7 +3,7 @@ title: Eric Kansa
 role: faculty
 jobtitle: Director of Open Context
 department: Open Context
-website: http://opencontext.org
+website: https://opencontext.org
 image: /images/faculty/eric-kansa.jpg
 ---
 

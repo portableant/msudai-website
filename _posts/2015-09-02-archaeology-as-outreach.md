@@ -4,6 +4,7 @@ author: mary.lennon
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["archaeology", "outreach", "digital archaeology", "AECOM"]
 ---
 
 I am Mary Lennon from AECOM's Cultural Resource Management (CRM) Office in Burlington, NJ. I will be doing a project based on one of our most recent excavations. Before I can announce the particulars, there are a few conversations that need to happen with our client. I will update you all in the very near future…stay tuned!

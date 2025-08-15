@@ -4,6 +4,7 @@ author: Emily Stovel
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
+tags: ["interaction", "Andean archaeology", "digital archaeology", "collaboration", "South America"]
 ---
 
 South American archaeologists, much like archaeologists all over the world, are experts at exploring ancient interaction: who was moving where, what they took with them, and who they spent time with. A topic that created a lot of research and buzz over the last 10 years, for example, was possible genetic exchange between anatomically modern humans and neanderthal populations in Europe. In northern Chile, southern Bolivia, and northwestern Argentina, communities were in contact for thousands of years as mobile foragers or through trade caravans that traded ideas and objects. Such connections exist today. The modern movement of people and objects, however, is influenced by today's national borders. These borders have been heavily militarized too, so borders are not simply lines drawn in the mountains.

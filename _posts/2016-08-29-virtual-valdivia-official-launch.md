@@ -3,6 +3,8 @@ title: Virtual Valdivia Official Launch
 author: Sarah M. Rowe
 date: 2016-08-29
 layout: default
+categories: ["Institute Project"]
+tags: ["digital archaeology", "Valdivia culture", "open access", "ceramics", "database", "website"]
 ---
 My project, Virtual Valdivia, is an online repository of ceramics pertaining to the Valdivia culture (ca. 4400-1450 BC) of coastal Ecuador. The project developed as outgrowth of my dissertation research, which examined variation in ceramic assemblages at multiple Valdivia sites. This inter-site comparison was the first of its kind undertaken for this period. Generally, analyses are limited to single sites, and contained within the pages of site reports or theses. This limits researchers’ ability to make robust conclusions about social processes in the past. While I published my database and ceramic images in my dissertation (which is available online as a free download), I did not ultimately feel that this was a sufficient expression of my goals of data-sharing and data-accessibility. The Virtual Valdivia project was conceived as a way of making my data (and hopefully the data of others in the future), as widely accessible as possible.
 

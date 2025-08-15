@@ -4,6 +4,7 @@ author: Stacey Camp
 date: 2016-08-13
 layout: default
 categories: ["Institute Project"]
+tags: ["digital archaeology", "project workflow", "website design", "Bowers Laboratory of Anthropology"]
 ---
 
 As this year is slowly coming to a close and the NEH seminar is next week, I've thought a lot about the workflow and the meandering path I have taken to finish up this project. I began with very ambitious goals, and then had to winnow them down as I encountered challenges and learned new information. Through this process, I've learned that when done properly, digital project workflow is bumpy and each step in the process requires reflection and introspection. I struggled with obsessing over design (aka "design creep!"), which involved playing with wireframes many times over, toying with photos and logos kindly designed by the Bowers Laboratory's talented Dr. Leah Evans-Janke, and figuring out what I could realistically do with code. I'm glad I've had nearly a year to work on this project, because frankly this could not have happened in a month or even 6 months with my workload and the learning curve. I've been actively thinking about the lab's website, and have gone through several iterations (and failures) before settling on the design below.
