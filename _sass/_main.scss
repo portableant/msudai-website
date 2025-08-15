@@ -99,7 +99,7 @@ main {
 
 .card a {
     color: $primary;
-    text-decoration: none;
+    text-decoration: underline;
     transition: color 0.2s;
 
     &:hover,
@@ -165,6 +165,7 @@ table.programme-table a {
 
 main a {
     color: #c15d00;
+    text-decoration: underline;
 }
 
 h1 {
