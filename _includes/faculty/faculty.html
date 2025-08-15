@@ -10,8 +10,8 @@
                     {% endif %}
                 </div>
                 <div class="col-12 text-start">
-                    <h5 class="card-title" id="faculty-{{ forloop.index }}-name">{{ faculty.title }}</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h6>
+                    <h3 class="card-title" id="faculty-{{ forloop.index }}-name">{{ faculty.title }}</h3>
+                    <h4 class="card-subtitle mb-2 text-muted">{{ faculty.jobtitle }}</h4>
                     <p class="card-text">{{ faculty.department }}</p>
                     {% if faculty.website %}
                     <a href="{{ faculty.website }}" class="card-link" aria-label="Website of {{ faculty.title }}">{{ faculty.website }}</a>
