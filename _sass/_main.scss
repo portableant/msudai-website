@@ -1,46 +1,18 @@
 // _sass/main.scss
 
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 $fa-font-display: swap;
-$fa-font-path: "~@fortawesome/fontawesome-free/webfonts"; // Set Font Awesome font path
 
 // Import Bootstrap
 @import "bootstrap/scss/bootstrap.scss";
-// ... (your existing imports)
 
+// Import Font Awesome SCSS files. They will use the variables defined above.
 @import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
-@import "@fortawesome/fontawesome-free/scss/solid.scss";   // For solid icons
-@import "@fortawesome/fontawesome-free/scss/brands.scss";  
+@import "@fortawesome/fontawesome-free/scss/solid.scss";
+@import "@fortawesome/fontawesome-free/scss/brands.scss";
 
-// Ensure font-display: swap is set for Font Awesome fonts
-@font-face {
-    font-family: "Font Awesome 6 Free";
-    font-style: normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url("#{$fa-font-path}/fa-solid-900.woff2") format("woff2"),
-             url("#{$fa-font-path}/fa-solid-900.woff") format("woff");
-}
-@font-face {
-    font-family: "Font Awesome 6 Free";
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url("#{$fa-font-path}/fa-regular-400.woff2") format("woff2"),
-             url("#{$fa-font-path}/fa-regular-400.woff") format("woff");
-}
-@font-face {
-    font-family: "Font Awesome 6 Brands";
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url("#{$fa-font-path}/fa-brands-400.woff2") format("woff2"),
-             url("#{$fa-font-path}/fa-brands-400.woff") format("woff");
-}
-// For brand icons
-// Add other styles like regular or light if needed
-// Define your custom variables before importing Bootstrap if you want to override defaults
 $primary:   #0d474e;   // Michigan State University Green
-$secondary: #fbede2;
+$secondary: #fbede2;   // Light Background Color
 $white:     #ffffff;   // Pure White
 $black:     #000000;   // Pure Black
 
