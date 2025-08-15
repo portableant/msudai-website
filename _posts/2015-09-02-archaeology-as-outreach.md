@@ -1,6 +1,6 @@
 ---
 title: "Archaeology as Outreach"
-author: mary.lennon
+author: Mary Lennon
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

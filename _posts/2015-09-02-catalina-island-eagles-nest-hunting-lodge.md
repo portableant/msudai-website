@@ -1,6 +1,6 @@
 ---
 title: "Catalina Island Eagles Nest Hunting Lodge"
-author: wteeter
+author: Wendy Teeter
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

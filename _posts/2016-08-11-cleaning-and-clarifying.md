@@ -1,6 +1,6 @@
 ---
 title: "Cleaning and Clarifying"
-author: alimcmichael
+author: Alice Lynn McMichael
 date: 2016-08-11
 layout: default
 categories: ["Institute Project"]
