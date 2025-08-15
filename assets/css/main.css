@@ -22526,7 +22526,7 @@ main {
 
 .card a {
   color: #0d474e;
-  text-decoration: none;
+  text-decoration: underline;
   transition: color 0.2s;
 }
 .card a:hover, .card a:focus, .card a:active {
@@ -22584,6 +22584,7 @@ table.programme-table a:hover {
 
 main a {
   color: #c15d00;
+  text-decoration: underline;
 }
 
 h1, .h1 {
