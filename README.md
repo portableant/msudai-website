@@ -49,6 +49,7 @@ The contributions included developing digital tools, creating educational resour
 * Mary Lennon
 * Catherine Foley
 * Christine Szuter
+* Wendy Teeter
 
 I have no doubt missed some people, so please let me know if you were involved and I will add you to the list.
 
