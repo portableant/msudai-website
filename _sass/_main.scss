@@ -101,7 +101,7 @@ main {
         color: $white;
     }
     .page-item.disabled .page-link {
-        color: lighten($primary, 40%);
+        color: $primary;
         pointer-events: none;
         background-color: $white;
         border-color: $white;
