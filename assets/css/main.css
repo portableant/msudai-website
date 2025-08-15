@@ -22528,7 +22528,7 @@ main {
   color: #ffffff;
 }
 .pagination .page-item.disabled .page-link {
-  color: rgb(70.7142857143, 207.7472527473, 224.2857142857);
+  color: #0d474e;
   pointer-events: none;
   background-color: #ffffff;
   border-color: #ffffff;
