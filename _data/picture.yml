@@ -11,7 +11,7 @@ presets:
   # built-in.
   profile:
     formats: [webp, original]
-    widths: [200, 400] # Smaller widths for profile images.
+    widths: [150] # Smaller widths for profile images.
     format_quality:
       jpg: 95
       png: 95
