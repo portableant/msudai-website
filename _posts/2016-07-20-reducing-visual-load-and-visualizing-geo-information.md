@@ -1,6 +1,6 @@
 ---
 title: "Reducing visual load and visualizing geo-information"
-author: ngupta
+author: Neha Gupta
 date: 2016-07-20
 layout: default
 categories: ["Institute Project"]

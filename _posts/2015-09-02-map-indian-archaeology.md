@@ -1,6 +1,6 @@
 ---
 title: "Map Indian Archaeology"
-author: ngupta
+author: Neha Gupta
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]
