@@ -1116,6 +1116,33 @@ progress {
   border-bottom-right-radius: var(--bs-pagination-border-radius);
 }
 
+.badge {
+  --bs-badge-padding-x: 0.65em;
+  --bs-badge-padding-y: 0.35em;
+  --bs-badge-font-size: 0.75em;
+  --bs-badge-font-weight: 700;
+  --bs-badge-color: #fff;
+  --bs-badge-border-radius: var(--bs-border-radius);
+  display: inline-block;
+  padding: var(--bs-badge-padding-y) var(--bs-badge-padding-x);
+  font-size: var(--bs-badge-font-size);
+  font-weight: var(--bs-badge-font-weight);
+  line-height: 1;
+  color: var(--bs-badge-color);
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: var(--bs-badge-border-radius);
+}
+.badge:empty {
+  display: none;
+}
+
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
+
 .alert {
   --bs-alert-bg: transparent;
   --bs-alert-padding-x: 1rem;
@@ -1338,6 +1365,10 @@ progress {
   margin-bottom: 0 !important;
 }
 
+.mb-1 {
+  margin-bottom: 0.25rem !important;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem !important;
 }
@@ -1356,6 +1387,10 @@ progress {
 
 .ms-auto {
   margin-left: auto !important;
+}
+
+.p-2 {
+  padding: 0.5rem !important;
 }
 
 .p-3 {
@@ -1791,4 +1826,14 @@ h1, .h1 {
 
 #top-banner {
   background: url("/images/backgrounds/91.jpg") no-repeat center center/cover;
+}
+
+.badge-primary-custom {
+  background-color: #0d474e;
+  color: #fbede2;
+  padding: 0.35em 0.65em;
+  font-size: 0.75em;
+  font-weight: 600;
+  border-radius: 0.25rem;
+  display: inline-block;
 }

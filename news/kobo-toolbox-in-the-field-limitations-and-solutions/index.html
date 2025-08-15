@@ -26,7 +26,9 @@
 <!-- End Jekyll SEO tag -->
 
     <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/assets/css/main.min.css">
+    
+        <link rel="stylesheet" href="/assets/css/main.min.css">
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
@@ -98,7 +100,7 @@
 
 <h2 id="kobo-toolbox-implementation">Kobo Toolbox Implementation</h2>
 
-<p>The central component of this attempt at digital data collection is Kobo Toolbox (see my earlier posts for more details… <a href="link1">here</a>, <a href="link2">here</a>, <a href="link3">here</a> and <a href="link4">here</a>), an open-source and web-browser based form creation, deployment and collection tool. Kobo Toolbox’s primary benefit is that, because it is browser-based, it is platform independent. You can use an iPad or an iPhone just as well as an Android device or a Mac or PC computer. This means that data can be collected on devices that are already owned or that can be bought cheaply (e.g., a lower level Android device v. an iPad). The form is created through their online tools and can create fairly elaborate forms with skip logic and validation criteria. Once the form is deployed and you have an internet connection, the user loads the form into a browser on your device. You need to save the link so that it can be used without a data connection. On my iPhone 5s, I simply saved the link to the home screen. A couple of quick caveats are important here. I was able to load the form onto an iPhone 4s (but only using Chrome, not Safari), but was unable to save it, so lost it once the phone was offline. I was unable to load the form at all on an iPhone 4 (even in Chrome). Therefore, although ideally the form should work in any browser, the reality is that it makes use of a number of HTML5 features that are not necessarily present in older browsers. Of course, as time goes on, phones and browsers will incorporate more HTML5 components and therefore, this will be less of an issue.</p>
+<p>The central component of this attempt at digital data collection is Kobo Toolbox (see my earlier posts for more details…), an open-source and web-browser based form creation, deployment and collection tool. Kobo Toolbox’s primary benefit is that, because it is browser-based, it is platform independent. You can use an iPad or an iPhone just as well as an Android device or a Mac or PC computer. This means that data can be collected on devices that are already owned or that can be bought cheaply (e.g., a lower level Android device v. an iPad). The form is created through their online tools and can create fairly elaborate forms with skip logic and validation criteria. Once the form is deployed and you have an internet connection, the user loads the form into a browser on your device. You need to save the link so that it can be used without a data connection. On my iPhone 5s, I simply saved the link to the home screen. A couple of quick caveats are important here. I was able to load the form onto an iPhone 4s (but only using Chrome, not Safari), but was unable to save it, so lost it once the phone was offline. I was unable to load the form at all on an iPhone 4 (even in Chrome). Therefore, although ideally the form should work in any browser, the reality is that it makes use of a number of HTML5 features that are not necessarily present in older browsers. Of course, as time goes on, phones and browsers will incorporate more HTML5 components and therefore, this will be less of an issue.</p>
 
 <p>Once the form is deployed and saved on your device, you can collect data offline. When the device comes back online, it will synchronize the data you have collected with Kobo’s server (note that you can install Kobo Toolbox on a local server, but at your own risk). Then, you can download your data from their easy-to-use website.</p>
 
@@ -134,11 +136,76 @@
 
 <p>One final comment will suffice here. I just discovered a new app that may be able to replace iGIS. QField is specifically designed to work with the open source GIS program QGIS. Although it is still new and definitely still in development, it promises to be an excellent open source solution for offline digital data collection- though limited to Android devices!</p>
 
+                        
+                            
+<div class="row justify-content-center">
+    <div class="mb-3">
+        <h3 class="mb-2">Tags</h3>
+        <div>
+            
+            <a href="/tag/kobo-toolbox" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                Kobo Toolbox
+            </a>
+            
+            <a href="/tag/digital-data-collection" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                digital data collection
+            </a>
+            
+            <a href="/tag/fieldwork" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                fieldwork
+            </a>
+            
+            <a href="/tag/offline-data" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                offline data
+            </a>
+            
+            <a href="/tag/igis" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                iGIS
+            </a>
+            
+            <a href="/tag/qgis" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                QGIS
+            </a>
+            
+            <a href="/tag/mobile-apps" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                mobile apps
+            </a>
+            
+            <a href="/tag/gis" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                GIS
+            </a>
+            
+            <a href="/tag/survey" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                survey
+            </a>
+            
+            <a href="/tag/ecuador" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                Ecuador
+            </a>
+            
+            <a href="/tag/data-visualization" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                data visualization
+            </a>
+            
+            <a href="/tag/open-source" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                open source
+            </a>
+            
+            <a href="/tag/qfield" class="badge badge-primary-custom text-decoration-none me-2 mb-1 p-2">
+                QField
+            </a>
+            
+        </div>
+    </div>
+</div>
+
+                        
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    
 </main>
 <footer class="bg-msu text-white py-5">
   <div class="container text-center">
@@ -179,7 +246,7 @@
     </div>
 
     <div class="row">
-      <div class="col-12 text-center my-2">
+      <div class="col-12 text-center my-4">
         <a href="https://github.com/portableant/msudai-website" class="text-white" aria-label="View project on GitHub" target="_blank" rel="noopener">
           <i class="fab fa-github fa-2x"></i>
         </a>

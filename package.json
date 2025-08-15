@@ -11,7 +11,7 @@
     "copy:fa-fonts": "cp node_modules/@fortawesome/fontawesome-free/webfonts/*.woff* assets/webfonts/",
     "build:js": "rollup -c",
     "build:assets": "npm run build:css && npm run build:js && npm run copy:fa-fonts",
-    "start": "npm run build:assets && bundle exec jekyll build  && npm run purgecss",
+    "start": "npm run build:assets && JEKYLL_ENV=production bundle exec jekyll build  && npm run purgecss",
     "develop": "npm run build:assets && bundle exec jekyll clean && bundle exec jekyll serve",
     "clean": "bundle exec jekyll clean && rm -rf _site",
     "build": "npm run clean && npm run build:assets"
