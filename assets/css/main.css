@@ -22528,7 +22528,7 @@ main {
   color: #ffffff;
 }
 .pagination .page-item.disabled .page-link {
-  color: rgb(70.7142857143, 207.7472527473, 224.2857142857);
+  color: #0d474e;
   pointer-events: none;
   background-color: #ffffff;
   border-color: #ffffff;
@@ -22594,7 +22594,7 @@ h1, .h1 {
   background-color: #0d474e;
   color: #fbede2;
   padding: 0.35em 0.65em;
-  font-size: 0.75em;
+  font-size: 1em;
   font-weight: 600;
   border-radius: 0.25rem;
   display: inline-block;
