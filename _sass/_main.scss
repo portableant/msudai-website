@@ -175,3 +175,14 @@ h1 {
 #institute-banner-text {
 background-color: rgba(0, 0, 0, 0.6);
 }
+#institute-banner-text a {
+    color: #c15d00;
+    text-decoration: underline;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: $white;
+        text-decoration: underline;
+    }
+}
