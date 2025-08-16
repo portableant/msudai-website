@@ -1276,10 +1276,6 @@ progress {
   height: 100%;
 }
 
-.ratio-4x3 {
-  --bs-aspect-ratio: 75%;
-}
-
 .ratio-16x9 {
   --bs-aspect-ratio: 56.25%;
 }
