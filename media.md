@@ -14,16 +14,14 @@ A lot of imagery exists from the Institute, and these images come from Matrix MS
 
 ## 2015
 
-<div class="ratio ratio ratio-4x3">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/matrix_msu/albums/72157660452277421" title="2015 Meeting of the Institute for Digital Archaeology Method &amp; Practice"><img src="https://live.staticflickr.com/719/22357531920_bd1dc9ed51_b.jpg" width="800" height="600" alt="2015 Meeting of the Institute for Digital Archaeology Method &amp; Practice"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/matrix_msu/albums/72157660452277421" title="2015 Meeting of the Institute for Digital Archaeology Method &amp; Practice"><img src="https://live.staticflickr.com/719/22357531920_bd1dc9ed51_b.jpg" width="100%" height="600" alt="2015 Meeting of the Institute for Digital Archaeology Method &amp; Practice"/></a>
 
 ## 2016
 
-<div class="ratio ratio ratio-4x3">
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/matrix_msu/albums/72157673817441956" title="2016 Institute for Digital Archaeology ">
-    <img src="https://live.staticflickr.com/8191/29590600962_c5f8449763_c.jpg" width="800" height="600" alt="2016 Institute for Digital Archaeology "/>
+    <img src="https://live.staticflickr.com/8191/29590600962_c5f8449763_c.jpg" width="100%" height="600" alt="2016 Institute for Digital Archaeology "/>
   </a>
-  <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
+
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
 
