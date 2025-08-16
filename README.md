@@ -52,6 +52,9 @@ The contributions included developing digital tools, creating educational resour
 * Wendy Teeter
 * Ben Carter
 * Megan Perry
+* Maria Bruno
+* Brandon Locke
+* Elise MacArthur
 
 I have no doubt missed some people, so please let me know if you were involved and I will add you to the list.
 
