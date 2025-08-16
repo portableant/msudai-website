@@ -50,22 +50,51 @@ The contributions included developing digital tools, creating educational resour
 * Catherine Foley
 * Christine Szuter
 * Wendy Teeter
+* Ben Carter
+* Megan Perry
 
 I have no doubt missed some people, so please let me know if you were involved and I will add you to the list.
 
 ## Getting Started
 
+Your development environment will need [imagemagick](https://imagemagick.org/index.php) and [libvps](https://www.libvips.org/install.html) installed - I use a mac and homebrew for installing these. Without these, several packages (e.g. jekyll_picture_tag) will fail to run. 
+
 To run the site locally, use the scripts defined in `package.json`:
 
 ```bash
+# Install gems
+bundle install 
+
 # Install dependencies
 npm install
 
 # Serve the site locally
 npm run develop
+
+# Build all the stuff
+npm run start
 ```
 
 This will start a local server, usually at `http://localhost:4000`, where you can browse the reconstructed site.
+
+## Standard Jekyll site
+
+No, this is not one that will run on Github Pages as you normally would by just committing the code. It uses gems that aren't whitelisted by Github and a [custom plugin for tags](_plugins/tags_generator.rb) pages to be generated. This is handled in the deploy script in the .github/workflows folder.
+
+### Non standard gems 
+
+I have used these gems for extra functions to run: 
+
+* jekyll-picture-tag-ng
+* jekyll_picture_tag
+* jekyll-spaceship'
+* jekyll-paginate-v2
+* jekyll-leaflet
+
+## Deployment
+
+The deploy.yml script in the workflows directory is a GitHub Actions workflow used to automate the deployment process for the website. When changes are pushed to the repository, this workflow is triggered. It  checks out the code, installs dependencies, builds the site, and then deploys the generated files to GitHub Pages. This ensures that the latest version of the website is automatically published without manual intervention and takes about two minutes or so. The build uses imagemagick/libvps for processing images to webp for speed on an ubuntu image. 
+
 
 ## Technologies Used and Migration
 
