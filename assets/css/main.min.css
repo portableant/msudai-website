@@ -1468,6 +1468,10 @@ progress {
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.rounded {
+  border-radius: var(--bs-border-radius) !important;
+}
+
 .rounded-circle {
   border-radius: 50% !important;
 }
@@ -1816,4 +1820,8 @@ h1, .h1 {
   font-weight: 600;
   border-radius: 0.25rem;
   display: inline-block;
+}
+
+#institute-banner-text {
+  background-color: rgba(0, 0, 0, 0.6);
 }

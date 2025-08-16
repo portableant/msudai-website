@@ -22600,4 +22600,8 @@ h1, .h1 {
   display: inline-block;
 }
 
+#institute-banner-text {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
 /*# sourceMappingURL=main.css.map */
