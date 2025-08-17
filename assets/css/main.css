@@ -22604,11 +22604,11 @@ h1, .h1 {
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-#institute-banner-text a {
+#institute-banner-text p a {
   color: #c15d00;
   text-decoration: underline;
 }
-#institute-banner-text a:hover, #institute-banner-text a:focus, #institute-banner-text a:active {
+#institute-banner-text p a:hover, #institute-banner-text p a:focus, #institute-banner-text p a:active {
   color: #ffffff;
   text-decoration: underline;
 }
