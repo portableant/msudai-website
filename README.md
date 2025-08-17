@@ -90,9 +90,10 @@ I have used these gems for extra functions to run:
 
 * jekyll-picture-tag-ng
 * jekyll_picture_tag
-* jekyll-spaceship'
+* jekyll-spaceship
 * jekyll-paginate-v2
 * jekyll-leaflet
+* jekyll-auto-authors
 
 ## Deployment
 
