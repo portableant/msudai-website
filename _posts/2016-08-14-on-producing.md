@@ -1,6 +1,7 @@
 ---
 title: "On producing"
-author: Kate Ellenberger
+author: kateellenberger
+author_name: Kate Ellenberger
 date: 2016-08-14
 layout: default
 categories: ["Institute Project"]

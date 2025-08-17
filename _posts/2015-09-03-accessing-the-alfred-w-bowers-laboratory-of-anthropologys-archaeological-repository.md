@@ -1,6 +1,7 @@
 ---
 title: "Accessing the Alfred W. Bowers Laboratory of Anthropology's Archaeological Repository"
-author: Stacey Camp
+author: staceycamp
+author_name: Stacey Camp
 date: 2015-09-03
 layout: default
 categories: ["Institute Project"]

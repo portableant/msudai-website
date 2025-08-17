@@ -1,6 +1,7 @@
 ---
 title: "Banda through Time: Building Public Engagement and a Stable Digital Repository"
-author: Ann Stahl
+author: annstahl
+author_name: Ann Stahl
 date: 2015-08-31
 layout: default
 categories: ["Institute Project"]

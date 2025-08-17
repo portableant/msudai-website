@@ -1,6 +1,7 @@
 ---
 title: "Only the beginning"
-author: Matthew Pike
+author: matthewpike
+author_name: Matthew Pike
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]

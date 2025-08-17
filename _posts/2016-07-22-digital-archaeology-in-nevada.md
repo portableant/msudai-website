@@ -1,6 +1,7 @@
 ---
 title: "Digital Archaeology in Nevada"
-author: Beth Smith
+author: bethsmith
+author_name: Beth Smith
 date: 2016-07-22
 layout: default
 categories: ["Institute Project"]

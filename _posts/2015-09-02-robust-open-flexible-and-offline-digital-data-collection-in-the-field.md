@@ -1,6 +1,7 @@
 ---
 title: "Robust, Open, Flexible and Offline Digital Data Collection in the Field"
-author: Ben Carter
+author: bencarter
+author_name: Ben Carter
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

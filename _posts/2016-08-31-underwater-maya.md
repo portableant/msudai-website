@@ -1,6 +1,7 @@
 ---
 title: Introducing underwatermaya, the web page
-author: Heather McKillop
+author: heathermckillop
+author_name: Heather McKillop
 date: 2016-08-31
 layout: default
 categories: ["Institute Project"]

@@ -1,10 +1,11 @@
 ---
 title: "ReBuilding Natchez…slowly"
-author: Ashley Peles
+author: ashleypeles
+author_name: Ashley Peles
 date: 2016-01-12
 layout: default
 categories: ["Institute Project", "Updates"]
-tags: ["Unity", "3D modeling", "digital reconstruction", "archaeology", "Natchez", "Fort Rosalie", "historical reconstruction"]
+tags: ["Unity", "3d modeling", "digital reconstruction", "archaeology", "natchez", "Fort Rosalie", "historical reconstruction"]
 ---
 During the fall, I introduced my project to re imagine Natchez during the 1720s, before it was burned to the ground. My idea for this project involves touch-screen navigation of a Unity3d model of the area around Fort Rosalie. I also want to incorporate an archaeological perspective into the information – highlighting the ambiguity rather than hiding it. Back in my first post, I outlined what I hoped would be some achievable goals.
 

@@ -1,0 +1,14 @@
+---
+layout: default
+title: All authors on the Institute for Digital Archaeology Method and Practice
+permalink: /author/
+---
+<div class="container-fluid">
+    <div class="row">
+    {% for author in site.data.authors %}
+      {% assign author_slug = author[0] %}
+      {% assign author_data = author[1] %}
+      {% include authors/author-bio.html %}
+    {% endfor %}
+    </div>
+</div>

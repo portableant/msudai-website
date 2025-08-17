@@ -1,6 +1,7 @@
 ---
 title: "Cleaning and Clarifying"
-author: Alice Lynn McMichael
+author: alicelynnmcmichael
+author_name: Alice Lynn McMichael
 date: 2016-08-11
 layout: default
 categories: ["Institute Project"]

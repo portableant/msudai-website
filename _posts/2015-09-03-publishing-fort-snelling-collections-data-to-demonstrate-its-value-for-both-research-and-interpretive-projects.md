@@ -1,6 +1,7 @@
 ---
 title: "Publishing Fort Snelling Collections Data to Demonstrate Its Value for Both Research and Interpretive Projects"
-author: Nancy Hoffman
+author: nancyhoffman
+author_name: Nancy Hoffman
 date: 2015-09-03
 layout: default
 categories: ["Institute Project"]

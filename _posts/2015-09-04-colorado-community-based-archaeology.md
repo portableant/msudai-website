@@ -1,6 +1,7 @@
 ---
 title: "Colorado Community-Based Archaeology"
-author: Michele Koons
+author: michelekoons
+author_name: Michele Koons
 date: 2015-09-04
 layout: default
 categories: ["Institute Project"]

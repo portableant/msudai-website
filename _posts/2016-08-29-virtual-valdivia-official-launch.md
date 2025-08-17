@@ -1,6 +1,7 @@
 ---
 title: Virtual Valdivia Official Launch
-author: Sarah M. Rowe
+author: sarahmrowe
+author_name: Sarah M. Rowe
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]

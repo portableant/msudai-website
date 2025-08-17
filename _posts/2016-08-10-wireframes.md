@@ -1,6 +1,7 @@
 ---
 title: "Wireframes!"
-author: Jolene Smith
+author: jolenesmith
+author_name: Jolene Smith
 date: 2016-08-10
 layout: default
 categories: ["Updates"]

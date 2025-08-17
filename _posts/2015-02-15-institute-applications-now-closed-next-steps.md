@@ -1,6 +1,7 @@
 ---
 title: "Institute Applications Now Closed – Next Steps"
-author: Ethan Watrall
+author: ethanwatrall
+author_name: Ethan Watrall
 date: 2015-02-15
 layout: default
 categories: ["Institute News"]

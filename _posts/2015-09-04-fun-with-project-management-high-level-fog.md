@@ -1,6 +1,7 @@
 ---
 title: "Fun with Project Management: High-Level Fog"
-author: Jolene Smith
+author: jolenesmith
+author_name: Jolene Smith
 date: 2015-09-04
 layout: default
 categories: ["Institute Project"]

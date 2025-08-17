@@ -1,6 +1,7 @@
 ---
 title: "Virginia Archaeology for Everyone: That's [Almost] A Wrap!"
-author: Jolene Smith
+author: jolenesmith
+author_name: Jolene Smith
 date: 2016-08-29
 layout: default
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Story of Cave Rock – Conclusion"
-author: Beth Smith
+author: bethsmith
+author_name: Beth Smith
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]

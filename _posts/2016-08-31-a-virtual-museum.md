@@ -1,6 +1,7 @@
 ---
 title: "A Virtual Museum"
-author: Alex Parsons
+author: alexparsons
+author_name: Alex Parsons
 date: 2016-08-31
 layout: default
 categories: ["Institute Project"]

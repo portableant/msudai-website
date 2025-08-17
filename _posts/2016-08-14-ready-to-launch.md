@@ -1,6 +1,7 @@
 ---
 title: "Ready to Launch"
-author: Sarah M. Rowe
+author: sarahmrowe
+author_name: Sarah M. Rowe
 date: 2016-08-14
 layout: default
 categories: ["Institute Project"]

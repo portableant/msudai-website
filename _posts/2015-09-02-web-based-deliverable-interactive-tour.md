@@ -1,6 +1,7 @@
 ---
 title: "Web-based Deliverable: Interactive Tour"
-author: Tabitha Hilliard
+author: tabithahilliard
+author_name: Tabitha Hilliard
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

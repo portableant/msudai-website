@@ -1,6 +1,7 @@
 ---
 title: "The Northern Indigenous Copper Technology Database"
-author: Matthew Pike
+author: matthewpike
+author_name: Matthew Pike
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

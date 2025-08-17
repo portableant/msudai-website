@@ -1,6 +1,7 @@
 ---
 title: "What’s your digital style?"
-author: Ann Stahl
+author: annstahl
+author_name: Ann Stahl
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]

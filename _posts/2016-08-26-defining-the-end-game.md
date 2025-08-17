@@ -1,6 +1,7 @@
 ---
 title: "Defining the End Game"
-author: Alice-Lynn McMichael
+author: alicelynnmcmichael
+author_name: Alice-Lynn McMichael
 date: 2016-08-26
 layout: default
 categories: ["Institute Project"]

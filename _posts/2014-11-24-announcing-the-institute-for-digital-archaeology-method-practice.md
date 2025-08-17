@@ -1,6 +1,7 @@
 ---
 title: "Announcing the Institute for Digital Archaeology Method & Practice"
-author: Ethan Watrall
+author: ethanwatrall
+author_name: Ethan Watrall
 date: 2014-11-24
 layout: default
 categories: ["Institute News", "Updates"]

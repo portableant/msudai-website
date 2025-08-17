@@ -7,8 +7,14 @@
                         {% if page.date %}
                             <p class="text-muted">{{ page.date | date: "%B %d, %Y" }}</p>
                         {% endif %}
-                        {% if page.author %}
-                            <p class="text-muted">By {{ page.author }}</p>
+                        {% if page.author_name %}
+                            <p class="text-muted">
+                                By: <a href="{{ site.baseurl }}/author/{{ page.author | slugify }}/">{{ page.author_name }}</a>
+                            </p>
+                            {% elsif page.author %}
+                            <p class="text-muted">
+                                By: <a href="{{ site.baseurl }}/author/{{ page.author_name | slugify }}/">{{ page.author }}</a>
+                            </p>
                         {% endif %}
                     </div>
                 </div>

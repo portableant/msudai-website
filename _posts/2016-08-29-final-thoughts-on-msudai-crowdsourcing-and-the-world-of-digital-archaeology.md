@@ -1,6 +1,7 @@
 ---
 title: "Final Thoughts on MSUDAI, Crowdsourcing, and the World of Digital Archaeology"
-author: Michele Koons
+author: michelekoons
+author_name: Michele Koons
 date: 2016-08-29
 layout: default
 categories: ["Institute Project"]

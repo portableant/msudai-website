@@ -1,6 +1,7 @@
 ---
 title: "Unearthing the Past: Archaeology and Public Outreach"
-author: Judy Voelker
+author: judyvoelker
+author_name: Judy Voelker
 date: 2015-09-13
 layout: default
 categories: ["Institute Project"]

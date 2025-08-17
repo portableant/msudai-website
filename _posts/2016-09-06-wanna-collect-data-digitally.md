@@ -1,6 +1,7 @@
 ---
 title: Wanna collect data digitally?
-author: Ben Carter 
+author: bencarter 
+author_name: Ben Carter
 date: 2016-09-06
 layout: default
 categories: ["Institute Project"]

@@ -1,6 +1,7 @@
 ---
 title: "Small Victories"
-author: Ashley Peles
+author: ashleypeles
+author_name: Ashley Peles
 date: 2016-03-17
 layout: default
 categories: ["Institute Project", "Updates"]

@@ -1,6 +1,7 @@
 ---
 title: "Kobo Toolbox in the field- limitations? and solutions."
-author: Ben Carter
+author: bencarter
+author_name: Ben Carter
 date: 2016-08-06
 layout: default
 tags: ["Kobo Toolbox", "digital data collection", "fieldwork", "offline data", "iGIS", "QGIS", "mobile apps", "GIS", "survey", "Ecuador", "data visualization", "open source", "QField"]

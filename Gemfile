@@ -27,6 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-spaceship'
   gem 'jekyll-paginate-v2'
   gem "jekyll-leaflet"
+  gem "jekyll-auto-authors"
 end
 
 gem "csv"

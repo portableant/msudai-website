@@ -1,6 +1,7 @@
 ---
 title: "Reflections on Digital Project Workflow and the Final Product"
-author: Stacey Camp
+author: staceycamp
+author_name: Stacey Camp
 date: 2016-08-13
 layout: default
 categories: ["Institute Project"]

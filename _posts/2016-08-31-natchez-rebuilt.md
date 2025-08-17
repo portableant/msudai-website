@@ -1,10 +1,11 @@
 ---
 title: Natchez Rebuilt
-author: Sarah M. Rowe
+author: ashleypeles
+author_name: Ashley Peles
 date: 2016-08-31
 layout: default
 categories: ["Institute Project"]
-tags: ["digital archaeology", "Natchez", "reconstruction", "3D modeling", "interactive media"]
+tags: ["digital archaeology", "natchez", "reconstruction", "3d modeling", "interactive media"]
 ---
 
 With the culmination of our year of digital archaeology, what have I ended up with? To recap my original goals:

@@ -1,6 +1,7 @@
 ---
 title: "Fostering Interaction among Interaction Specialists"
-author: Emily Stovel
+author: emilystovel
+author_name: Emily Stovel
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

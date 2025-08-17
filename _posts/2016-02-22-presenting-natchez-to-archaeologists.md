@@ -1,13 +1,12 @@
 ---
 title: "Presenting Natchez to Archaeologists"
-author: Ashley Peles
+author: ashleypeles
+author_name: Ashley Peles
 date: 2016-02-22
 layout: default
 categories: ["Institute Project", "Updates"]
+tags: ["natchez", "archaeology", "3d modeling", "Unity", "Fort Rosalie", "Conference", "Mississippi", "Historic Sites", "digital reconstruction", "Vimeo"]
 ---
-
-
-
 This post is coming somewhat late, but I do have a good excuse; for the past week I've been down in Natchez, Mississippi. A small contingent of archaeologists traveled from UNC in order to do a few things: fieldwork, meet with the NPS, and present at the joint meeting of the MAA (Mississippi Archaeological Association) and LAS (Louisiana Archaeological Society). This year is the tricentennial of the founding of Natchez (more specifically, when Fort Rosalie was built – 1716), which was the reason the conference was held in town. The Park Service recently removed some houses and brush from the Fort Rosalie site, so now you can get a clear view of what is left of the bluff and likely the last bit of Fort Rosalie. The high points you see below likely contain bits of the 1732 pentagonal earthworks of the Fort v.2. The original square fort with bastions (which is the time period I'm depicting) was destroyed in 1729 in the Natchez Revolt; the second pentagonal fort was then rebuilt on top of the first.
 
 ![Sunset over the Mississippi, Saturday, Feb. 20](/images/posts/404.png){: .img-fluid } 

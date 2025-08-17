@@ -1,0 +1,43 @@
+---
+layout: default
+---
+    {% assign author_username = page.pagination.author %}
+
+    {% assign author = page.pagination.author %}
+    {% assign numPosts = paginator.posts | size %}
+    {% if numPosts > 0 %}
+      {% for item in paginator.posts %}
+        {% assign page.title = item.author_name | append: " - " | append: site.title %}
+        <div class="col-12 mb-4">
+                <div class="card shadow w-100">
+                    <div class="card-body">
+                        <h2 class="card-title">
+                            <a href="{{site.baseurl}}{{ item.url }}">{{ item.title }}</a>
+                        </h2>
+                        <p class="card-subtitle mb-2 text-muted">
+                            <small>
+                                {{ item.date | date: "%B %d, %Y" }}
+                                {% if item.author_name %}
+                                    &nbsp;|&nbsp;By {{ item.author_name }}
+                                    {% elsif item.author %}
+                                    &nbsp;|&nbsp;By {{ item.author }}   
+                                {% endif %}
+                            </small>
+                        </p>
+                        <p class="card-text">
+                            {% assign words = item.excerpt | split: ' ' %}
+                            {% if words.size > 50 %}
+                                {{ words | slice: 0, 50 | join: ' ' }}...
+                            {% else %}
+                                {{ item.excerpt  | slice: 0, 50 | join: ' ' }}
+                            {% endif %}
+                        </p>
+                    </div>
+                </div>
+            </div>
+      {% endfor %}
+    {% else %}
+    <p>No posts yet.</p>
+    {% endif %}
+
+   {% include structure/pagination.html %}

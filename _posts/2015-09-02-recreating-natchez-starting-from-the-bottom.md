@@ -1,6 +1,7 @@
 ---
 title: "ReCreating Natchez: Starting from the Bottom"
-author: Ashley Peles
+author: ashleypeles
+author_name: Ashley Peles
 date: 2015-09-02
 layout: default
 categories: ["Institute Project"]

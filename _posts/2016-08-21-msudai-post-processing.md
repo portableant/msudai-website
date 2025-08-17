@@ -1,6 +1,7 @@
 ---
 title: "#MSUDAI: post processing"
-author: Jolene Smith
+author: jolenesmith
+author_name: Jolene Smith
 date: 2016-08-21
 layout: default
 categories: ["Updates"]

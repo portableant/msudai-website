@@ -1,6 +1,7 @@
 ---
 title: "On Beginnings: The Future of the Dead is Digital"   
-author: Katherine Cook
+author: katherinecook
+author_name: Katherine Cook
 date: 2016-08-31
 layout: default
 categories: ["Institute Project"]

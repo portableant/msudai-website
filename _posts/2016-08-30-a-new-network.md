@@ -1,6 +1,7 @@
 ---
 title: A New Network
-author: Nancy Hoffman
+author: nancyhoffman
+author_name: Nancy Hoffman
 date: 2016-08-30
 layout: default
 categories: ["Institute Project"]

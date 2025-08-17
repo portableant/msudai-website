@@ -1,6 +1,7 @@
 ---
 title: "Living the Dream, Eyes Wide Open"
-author: Kathryn Sampeck
+author: kathrynsampeck
+author_name: Kathryn Sampeck
 date: 2015-09-18
 layout: default
 categories: ["Institute Project"]

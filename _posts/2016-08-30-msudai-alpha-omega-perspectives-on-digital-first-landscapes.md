@@ -1,10 +1,11 @@
 ---
 title: "Alpha and Omega: Perspectives on Digital First Landscapes"
-author: Kathryn Sampeck
+author: kathrynsampeck
+author_name: Kathryn Sampeck
 date: 2016-08-30
 layout: default
 categories: ["Institute Project"]
-tags: ["digital archaeology", "Cherokee heritage", "KORA", "mbira", "3D modeling", "digital repository"]
+tags: ["digital archaeology", "Cherokee heritage", "KORA", "mbira", "3d modeling", "digital repository"]
 ---
 I am experiencing a bit of a philosophical conundrum. How can something end, when it feels like it is just the beginning? In my case, I started, then I stopped, then I started again. And now it’s over, but I am going. The conundrum deepens, as I have a launchless launch. Yet I have a thing—a project—and completed elements of that project. Oddly enough, the project and the elements are exactly what I dreamed of. In fact, they reach well beyond what I had imagined. For the time being, however, the thing (that does exist!) has to remain invisible (in that it is not yet ready for public consumption). It is a lesson in delayed gratification for me, for my research partners, and for the potential audiences of the project.
 

@@ -1,6 +1,7 @@
 ---
 title: "Introducing MINA | Map Indian Archaeology"
-author: Neha Gupta
+author: nehagupta
+author_name: Neha Gupta
 date: 2016-09-05
 layout: default
 categories: ["Institute Project"]

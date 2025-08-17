@@ -1,6 +1,7 @@
 ---
 title: "The Story of Cave Rock"
-author: Beth Smith
+author: bethsmith
+author_name: Beth Smith
 date: 2015-09-04
 layout: default
 categories: ["Institute Project"]
