@@ -3,9 +3,18 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-10 text-left">
+                        {% if page.pagination.author_data.name %}
+                        <h1 class="display-5 fw-bold py-2">Posts by {{ page.pagination.author_data.name }}</h1>
+                        {% else %}
                         <h1 class="display-5 fw-bold py-2">{{ page.title }}</h1>
+
+                        {% endif %}
                         {% if page.date %}
-                            <p class="text-muted">{{ page.date | date: "%B %d, %Y" }}</p>
+                            <p class="text-muted">{{ page.date | date: "%B %d, %Y" }} 
+                                {% if post.categories and post.categories.size > 0 %}
+                                                                | {{ post.categories[0] }}
+                                                        {% endif %}
+                            </p>
                         {% endif %}
                         {% if page.author_name %}
                             <p class="text-muted">
@@ -16,6 +25,7 @@
                                 By: <a href="{{ site.baseurl }}/author/{{ page.author_name | slugify }}/">{{ page.author }}</a>
                             </p>
                         {% endif %}
+                        
                     </div>
                 </div>
             </div>

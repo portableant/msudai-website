@@ -2,12 +2,10 @@
 layout: default
 ---
     {% assign author_username = page.pagination.author %}
-
     {% assign author = page.pagination.author %}
     {% assign numPosts = paginator.posts | size %}
     {% if numPosts > 0 %}
       {% for item in paginator.posts %}
-        {% assign page.title = item.author_name | append: " - " | append: site.title %}
         <div class="col-12 mb-4">
                 <div class="card shadow w-100">
                     <div class="card-body">

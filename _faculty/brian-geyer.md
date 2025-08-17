@@ -5,6 +5,7 @@ jobtitle: Research Assistant, LEADR
 department: Michigan State University
 website: http://leadr.msu.edu
 permalink: /faculty/brian-geyer
+image: /images/people/geyer.jpeg
 ---
 
 Brian Geyer is a 4th year PhD student of anthropology at Michigan State University. His research regards the adaptive strategies Maa-speaking peoples undertake to adjust their land tenure customs to rapidly changing wildlife conservation practices near the Maasai Mara National Reserve in Kenya. He was a Foreign Language and Area Studies Fellowship recipient for the first three years of his graduate studies, a Fulbright-Hays Group Project Abroad member for a language program in Tanzania, and – prior to his graduate studies – served as a public health volunteer in Kenya through the United States Peace Corps. He has BAs in music and anthropology from Washington State University.

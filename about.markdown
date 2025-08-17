@@ -6,6 +6,8 @@ permalink: /about/
 
 Archaeology is in an age where digital methods and practices are having an unavoidable impact on all areas of the discipline.  Research, teaching, compliance, preservation, public engagement, and publication – all are being transformed by digital tools and technologies.  The problem is that  there are very few opportunities for students, scholars, professional archaeologists, or closely related disciplines to build these vital digital skills. The **Institute on Digital Archaeology Method & Practice** hopes to address this by providing invited attendees the opportunity to receive hands-on instruction and experience in a wide variety of critical digital skills, tools, and technologies – especially those that fall outside the “traditional” suite of digital tools with which many archaeologists are already comfortable (CAD, GIS, databases, etc).
 
+{% include structure/participants.html %}
+
 ## Institute Themes
 
 The activities of the Institute for Digital Archaeological Method & Practice (lectures, workshops, etc) are organized to address a variety of themes:

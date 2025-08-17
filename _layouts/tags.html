@@ -16,8 +16,8 @@ title: Tags
           <p class="card-subtitle mb-2 text-muted">
             <small>
               {{ post.date | date: "%B %d, %Y" }}
-              {% if post.author %}
-                &nbsp;|&nbsp;By {{ post.author }}
+                {% if post.author %}
+                &nbsp;|&nbsp;By <a href="{{ site.baseurl }}/author/{{ post.author | downcase | replace: ' ', '-' }}/">{{ post.author_name }}</a>
               {% endif %}
             </small>
           </p>

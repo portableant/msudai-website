@@ -5,7 +5,8 @@ permalink: /author/
 ---
 <div class="container-fluid">
     <div class="row">
-    {% for author in site.data.authors %}
+    {% assign sorted_authors = site.data.authors | sort %}
+    {% for author in sorted_authors %}
       {% assign author_slug = author[0] %}
       {% assign author_data = author[1] %}
       {% include authors/author-bio.html %}

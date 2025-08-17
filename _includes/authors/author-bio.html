@@ -3,6 +3,9 @@
                 <div class="col-12 text-center mb-3">
                     {% if author_data.image and author_data.image != "" %}
                     {% picture profile {{ author_data.image }} jpt-webp: {{ author_data.image }} 1:1 center class="rounded-circle object-fit-cover" style="width: 150px; height: 150px;" --alt "Portrait of {{ faculty.title }}" %}
+                      {% else %}
+                    {% picture profile {{ site.seo_tag.image }} jpt-webp: {{ site.seo_tag.image }} 1:1 center class="rounded-circle object-fit-cover" style="width: 150px; height: 150px;" --alt "Stand in image" %}
+                
                     {% endif %}
                 </div>
                 <div class="col-12 text-start">
