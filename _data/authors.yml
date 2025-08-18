@@ -7,29 +7,32 @@ bencarter:
   name: 'Ben Carter'
   bio: 'I received by Ph.D. in Anthropological Sciences from Washington University in St. Louis in 2008. My main focus has been how communities are built. A central concern of my dissertation on shell bead production  on the coast of Ecuador (between c. A.D. 800- 1530) is how the identity of bead makers is developed as a community and how it is embodied. Currently (2017), I am working on two projects. The first is about how the landscapes of late prehistoric Ecuador were both employed by and fashioned by the Guancavilcas while constructing a unique local identity. Second, I am also looking at how the landscape of the Blue Mountain in eastern Pennsylvania, which looks “natural” today,  was used by colliers (charcoal makers) to supply fuel to two iron furnaces in the 19th century. Overarching all of this is a deep concern with openness in archaeology. I am working on designing- using only open tools and open standards- a data base that can be shared publicly (while protecting vital data).'
   website: 'https://benjaminpcarter.com/'
+  image: '/images/people/benjamincarter.png'
 bethsmith:
   name: 'Beth Smith'
   bio: 'Archaeologist at the Nevada Department of Transportation'
   website: ''
+  image: '/images/people/smith.jpg'
 alexparsons:
   name: 'Alex Parsons'
   bio: 'Curator of Archeological Collections, National Park Service'
   website: ''
-  image: /images/people/parsons.jpeg
+  image: '/images/people/parsons.jpeg'
 alicelynnmcmichael:
   name: 'Alice Lynn McMichael'
   bio: 'Alice Lynn McMichael is the Senior Associate Director of the Digital Humanities Center. Her interdisciplinary approach to digital humanities teaching and community engagement is centered around research ethics, qualitative data, and public facing scholarship. A.L.’s research examines space and place in historical communities. She uses photography, maps, 3D modeling and Augmented Reality to explore the visuality of late antique and medieval Mediterranean urban landscapes. Dr. McMichael holds a PhD in Early Christian and Byzantine Art and Architecture from The Graduate Center of the City University of New York (CUNY), an MA in Art History from Brooklyn College, and a BFA in Graphic Design from Auburn University. She has taught history, art history, and digital humanities at Michigan State University, Hunter College, Montclair State University, City College of New York, and Baruch College. Previously she was Director of the Lab for Education & Advancement in Digital Research (LEADR) and a member of the Digital Humanities Core Faculty at Michigan State University. She was also the digital scholarship researcher for a Mellon-funded task force of the College Art Association and Society of Architectural Historians that developed progressive disciplinary guidelines for evaluating digital scholarship for promotion and tenure.'
   website: ''
-  image: '/images/people/mcmichael.webp'
+  image: '/images/people/mcmichael.jpg'
 annstahl:
   name: 'Ann Stahl'
   bio: 'Ann Brower Stahl is a U.S. Africanist archaeologist whose work focuses on the archaeology of the Banda area in Ghana, West Africa. She is Professor and Chair of the Department of Anthropology at the University of Victoria in British Columbia.'
   website: 'https://en.wikipedia.org/wiki/Ann_B._Stahl'
-  image: /images/people/stahl.jpeg
+  image: '/images/people/stahl.jpeg'
 emilystovel:
   name: 'Emily Stovel'
-  bio: ''
+  bio: 'Emily Stovel, based in Canada, is currently a Manager of Culture and Curator at Arnprior + District Museum. Emily Stovel brings experience from previous roles at Town Of Bernalillo, Sandoval County Office of Economic Development and Casa San Ysidro Museum. Emily Stovel holds a 1997 - 2002 Doctor of Philosophy (Ph.D.) in Anthropology (Archaeology)'
   website: ''
+  image: '/images/people/stovel.jpg'
 ethanwatrall:
   name: 'Ethan Watrall'
   bio: 'An anthropological archaeologist who has worked throughout North America and the Middle East, Ethan Watrall is [Assistant Professor in the Department of Anthropology](http://anthropology.msu.edu) and Associate Director of MATRIX: The Center for Digital Humanities & Social Sciences (matrix.msu.edu) at Michigan State University. In addition, Ethan is Director of the [Cultural Heritage Informatics Initiative](http://chi.anthropology.msu.edu) and the [Cultural Heritage Informatics Fieldschool](http://chi.anthropology.msu.edu/fieldschool) at Michigan State University. Currently, Ethan is Co-PI of the NEH funded ARCS: Archaeological Resource Cataloguing System project and the Director of the NEH funded Institute for Digital Archaeological Method and Practice. Ethan’s interest primarily fall in the domain of digital public archaeology and heritage, with particular interest in mobile digital public heritage and digital heritage mapping for public outreach and engagement. Ethan is co-editor of Archaeology 2.0: New Tools for Communication and Collaboration, an open access volume published by the UCLA Cotsen Institute of Archaeology Press.'
@@ -39,25 +42,26 @@ heathermckillop:
   name: 'Heather McKillop'
   bio: 'I carry out archaeological field research on ancient Maya salt works flooded by sea-level rise and use 3D technology to preserve a record of the salt-waterlogged pottery and wood. The research has been funded by National Science Foundation grants since 2005. My current NSF is a collaborative, linked grant with LSU PhD grad E. Cory Sills, now an Associate Professor at the University of Texas at Tyler, “Labor Relations in a Traditional Complex Society.” Current grad students on the project include Cher Foster, Hollie Lincoln, and Heidi Mayeaux. I started the DIVA Lab (Digital Imaging and Visualization in Archaeology) in 2010 with a LA Board of Regents grant. I have expanded 3D imaging and 3D printing, including exhibits featuring 3D printed replicas of artifacts from the Underwater Maya project funded by a Site Preservation Grant from the Archaeological Institute of America. We hosted the 4th International Congress on the Anthropology of Salt at LSU October 12-17, 2022. '
   website: 'https://www.lsu.edu/ga/people/faculty/heather-mckillop/index.php'
-  image: /images/people/Heather-McKillop-300x225.webp
+  image: '/images/people/Heather-McKillop-300x225.webp'
 jolenesmith:
   name: 'Jolene Smith'
   bio: 'Jolene Smith is an archaeologist who manages statewide digital archives and archaeological data at the Virginia Department of Historic Resources. She is interested in open data, preservation, and developing easy-to-use tools to help small organizations create, use, and manage archaeological data.'
   website: 'https://www.dhr.virginia.gov/about-dhr/staff/jolene-smith/'
-  image: /images/people/jolene.jpeg
+  image: '/images/people/jolene.jpg'
 judyvoelker:
   name: 'Judy Voelker'
   bio: 'Dr. Judy Voelker (associate professor) is an archaeologist at Northern Kentucky University where she also serves as the Director of the Museum of Anthropology. Although she has worked on archaeological projects in several regions of the United States including the Great Basin, western New York and the Southwest, she specializes in the prehistoric ceramics of Southeast Asia. Her research interests include ceramic production and technology as well as prehistoric trade and exchange. She is a co-principal investigator on the Thailand Archaeometallurgy Project (TAP). Funding for her research has come from many sources including a Fulbright fellowship to conduct an ethnoarchaeological study in northeast Thailand with women potters who use wooden paddles and ceramic anvils rather than the wheel to make earthenware vessels, as well as the American Council of Learned Societies and the Henry Luce Foundation. She has also received external grants (ASIANetwork) and internal grants from NKU for undergraduate student participation on her research projects both in Thailand and Highland Heights. She actively promotes undergraduate research and has encouraged student presentations at conferences within the discipline as well as venues such as Posters-at-the-Capitol. Voelker is also active in civic engagement and service learning projects. She served on the governing board of the Kentucky Academy of Science as a representative for Social & Behavioral Sciences from 2009-2015.'
-  website: ''
+  image: '/images/people/voelker.jpg'
 kateellenberger:
   name: 'Kate Ellenberger'
   bio: 'Kate Ellenberger is a consulting public and digital archaeologist. She received her PhD in Anthropology from Binghamton University in 2018 for her dissertation examining the community and institutional stakeholders that have influenced public archaeology practice in the United States. Her current work focuses on the theory and practice of self-evaluation in public archaeology.'
   website: ''
+  image: '/images/people/ellenberger.jpg'
 kathrynsampeck:
   name: 'Kathryn Sampeck'
   bio: 'Kathryn Sampeck (BA, MA, University of Chicago; PhD Tulane University) investigates pre-Columbian practices and material worlds, how they both shape and are transformed by colonial dynamics, and their lasting legacies.'
   website: 'https://www.reading.ac.uk/archaeology/staff/professor-katie-sampeck'
-  image: /images/people/KSampeck.jpg
+  image: '/images/people/KSampeck.jpg'
 katherinecook:
   name: 'Katherine Cook'
   bio: 'I am an anthropological archaeologist, specializing in an eclectic mix of digital technology, transatlantic history and public heritage. My research explores the material manifestations of heritage, reconstructing social memory and material history, particularly in the transatlantic worlds of the UK, Barbados, and Canada.'
@@ -67,50 +71,52 @@ marylennon:
   name: 'Mary Lennon'
   bio: ''
   website: ''
+  image: '/images/people/lennon.jpg'
 matthewpike:
   name: 'Matthew Pike'
   bio: ''
   website: ''
-  image: /images/people/pike.jpeg
+  image: '/images/people/pike.jpeg'
 michelekoons:
   name: 'Michele Koons'
   bio: 'Michele L. Koons is an anthropologist. She had four years experience excavating and mapping Moche sites in the Chicama, Jequetepeque, Moche, and Santa Valley, Peru. Koons has also had two years experience as field supervisor and geophysical expert at Tiwanaku, Bolivia. She has written numerous conference papers on geophysics and remote sensing in Bolivia and Peru as well as articles in press. She is currently the Curator of Archaeology at the Denver Museum of Nature & Science (DMNS) and curates the archaeological collections at DMNS from Latin American, North America, and Egypt.'
   website: ''
-  image: '/images/people/koons.webp'
+  image: '/images/people/koons.jpg'
 nancyhoffman:
   name: 'Nancy Hoffman'
   bio: ''
   website: ''
-  image: /images/people/nancy.webp
+  image: '/images/people/nancy.webp'
 nehagupta:
   name: 'Neha Gupta'
   bio: 'I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I build and expand on these interests through DARE - Digital Archaeology Research Environment, a Canada Foundation for Innovation funded laboratory at UBC Okanagan.'
   website: 'https://dngupta.github.io'
-  image: /images/people/Neha-Gupta.jpg
+  image: '/images/people/Neha-Gupta.jpg'
 sarahmrowe:
   name: 'Sarah M. Rowe'
   bio: 'I am an Associate Professor in the Department of Anthropology and Program Coordinator of the Public Heritage & Community Engagement degree.'
   website: 'https://faculty.utrgv.edu/sarah.rowe/index.html'
-  image: /images/people/rowe.jpg
+  image: '/images/people/rowe.jpg'
 staceycamp:
   name: 'Stacey Camp'
   bio: 'Dr. Stacey Camp is an Associate Professor of Anthropology and Director of the MSU Campus Archaeology Program at Michigan State University. She is an historical archaeologist who examines the materiality of immigrants living in the late 19th and early 20th century Western United States. Her publications explore how different facets of migrants’ identities – race, class, gender, and citizenship standing – shape their perceptions of consumerism and material culture. She has conducted ethnography and archaeological research in the Western United States, China, and Ireland. Since 2009, she has been excavating and studying the remains of North Idaho’s Kooskia Internment Camp, a World War II Japanese-American incarceration camp. This research has been featured in a number of media outlets, including Japan’s Fuji News (TV), Al Jazeera America (TV), PRI’s (Public Radio International) The World (radio), Germany’s Der Spiegel Online (newspaper/blog), CBS San Francisco (TV) and The Associated Press (wire service). She is currently developing a new project entitled “Before Incarceration” on the archaeology of Santa Barbara’s (California) Japanese-American community prior to their incarceration at Arizona’s Gila River Relocation Center during World War II. She received her B.A. in Anthropology and English & Comparative Literary Studies from Occidental College and her Ph.D. in Anthropology from Stanford University.'
   website: ''
-  image: /images/people/camp.jpeg
+  image: '/images/people/camp.jpeg'
 tabithahilliard:
   name: 'Tabitha Hilliard'
   bio: "Ms. Hilliard graduated from the University of Virginia in 2009 with a Bachelor's degree, double majoring in anthropology and archaeology. After working as an archaeology lab supervisor's assistant, Ms. Hilliard went on to complete her Master's degree in Anthropology at Monmouth University, Class of 2013. She worked as an Archaeologist/GIS Specialist in CRM for several years before transitioning to Library and Information Sciences. Ms. Hilliard currently works as a Principal Library Assistant with The College of New Jersey in Cataloging/Metadata."
   website: ''
-  image: /images/people/hilliard.jpeg
+  image: '/images/people/hilliard.jpeg'
 wendyteeter:
   name: 'Wendy Teeter'
-  bio: ''
+  bio: 'Cultural Resources Archaeologist for Santa Ynez Band of Chumash Indians from 2021-2025. She retired from being the Senior Curator and Repatriation Coordinator for the Fowler Museum at UCLA in 2022. For over 25 years she demonstrated the importance of working collaboratively with Native Tribes/Nations and Indigenous communities. She has senior professional skills as a California archaeologist, cultural resource monitor trainer, educator, zooarchaeologist, Indigenous Archaeology, Archival Research, Anthropology, Museums, Lecturing, and Museum Education. Professional interests in Coastal climates and environmental change, coastal ecology, protection of indigenous places, cultural resource policy and legislation from international to local levels.'
   website: ''
+  image: '/images/people/teeter.jpg'
 katymeyers:
   name: 'Katy Meyers'
   bio: ''
   website: 'https://meyersemery.com/'
-  image: '/images/people/myers.jpg'
+  image: '/images/people/meyers.jpg'
 lisabright:
   name: 'Lisa Bright'
   bio: ''
