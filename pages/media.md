@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Media & Publications
+permalink: /media/
 ---
 
 ## Publications 
@@ -30,5 +31,5 @@ A lot of imagery exists from the Institute, and these images come from Matrix MS
   
 ## Podcasts
 
-<iframe title="Zencastr video player" frameborder="0" src="https://zencastr.com/embed/L5xYL6Mi" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="background: black; border-radius: 12px; font-family: system-ui; width: 600px; height: 240px; position: relative; color: white; margin: 0px;" tabindex="0"></iframe>
+<iframe title="Zencastr video player" frameborder="0" src="https://zencastr.com/embed/L5xYL6Mi" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" style="background: black; border-radius: 12px; font-family: system-ui; width: 240px; height: 240px; position: relative; color: white; margin: 0px;" tabindex="0"></iframe>
 Institute on Digital Archaeology Method and Practice #msudai - Episode 38 - Jolene & Neha
